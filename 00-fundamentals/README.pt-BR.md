@@ -37,6 +37,7 @@ Cada aula mostra no cabeçalho o nível e os pré-requisitos, e termina com o bl
 | 01 | [O que é Inteligência Artificial](01-what-is-ai.pt-BR.md) | ✅ |
 | 02 | [A história da IA](02-history-of-ai.pt-BR.md) | ✅ |
 | 03 | [Como as máquinas aprendem](03-how-machines-learn.pt-BR.md) | ✅ |
+| 03.1 | ↳ Aprofundamento: [Avaliação e regularização](03-1-evaluation-regularization.pt-BR.md) | ✅ |
 | 04 | [Matemática essencial para IA](04-essential-math.pt-BR.md): vetores, matrizes, derivadas, probabilidade e normas | ✅ |
 | 04.1 | ↳ Aprofundamento: [Logaritmos, exponenciais e entropia](04-1-logs-and-entropy.pt-BR.md) | ✅ |
 

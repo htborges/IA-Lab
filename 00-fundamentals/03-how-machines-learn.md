@@ -173,8 +173,9 @@ In training, the gradient shows how to change the **weights** to decrease the er
 
 ## Go deeper and practice
 
-IA-Lab techniques that build on this lesson:
+Deep dives and techniques that build on this lesson:
 
+- **Deep dive:** [03.1 · Evaluation and regularization](03-1-evaluation-regularization.md)
 - **In practice:** [Data poisoning](../04-data-attacks/data-poisoning.md)
 
 ---

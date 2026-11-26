@@ -37,6 +37,7 @@ Each lesson shows its level and prerequisites in the header, and ends with a **G
 | 01 | [What is Artificial Intelligence](01-what-is-ai.md) | ✅ |
 | 02 | [The history of AI](02-history-of-ai.md) | ✅ |
 | 03 | [How machines learn](03-how-machines-learn.md) | ✅ |
+| 03.1 | ↳ Deep dive: [Evaluation and regularization](03-1-evaluation-regularization.md) | ✅ |
 | 04 | [Essential math for AI](04-essential-math.md): vectors, matrices, derivatives, probability and norms | ✅ |
 | 04.1 | ↳ Deep dive: [Logarithms, exponentials and entropy](04-1-logs-and-entropy.md) | ✅ |
 

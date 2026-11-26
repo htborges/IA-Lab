@@ -173,8 +173,9 @@ No treino, o gradiente indica como mudar os **pesos** para diminuir o erro. Num 
 
 ## Aprofunde e pratique
 
-Técnicas do IA-Lab que se apoiam nesta aula:
+Aprofundamentos e técnicas que partem desta aula:
 
+- **Aprofundamento:** [03.1 · Avaliação e regularização](03-1-evaluation-regularization.pt-BR.md)
 - **Na prática:** [Data poisoning](../04-data-attacks/data-poisoning.pt-BR.md)
 
 ---

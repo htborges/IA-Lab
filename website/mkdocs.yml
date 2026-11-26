@@ -71,6 +71,7 @@ plugins:
             01 · What is AI: 01 · O que é IA
             02 · History of AI: 02 · História da IA
             03 · How machines learn: 03 · Como as máquinas aprendem
+            03.1 · Evaluation and regularization: 03.1 · Avaliação e regularização
             04 · Essential math: 04 · Matemática essencial
             04.1 · Logs and entropy: 04.1 · Logaritmos e entropia
             Classic ML: ML clássico
@@ -119,6 +120,7 @@ nav:
           - 01 · What is AI: 00-fundamentals/01-what-is-ai.md
           - 02 · History of AI: 00-fundamentals/02-history-of-ai.md
           - 03 · How machines learn: 00-fundamentals/03-how-machines-learn.md
+          - 03.1 · Evaluation and regularization: 00-fundamentals/03-1-evaluation-regularization.md
           - 04 · Essential math: 00-fundamentals/04-essential-math.md
           - 04.1 · Logs and entropy: 00-fundamentals/04-1-logs-and-entropy.md
       - Classic ML:
