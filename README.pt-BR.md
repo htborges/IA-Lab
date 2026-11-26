@@ -40,7 +40,7 @@ Teoria → Mapeamento (OWASP / MITRE ATLAS) → Lab reproduzível → Exploraç�
 
 | # | Tema | Status |
 |---|------|--------|
-| 00 | [Fundamentos](00-fundamentals/README.pt-BR.md): trilha didática do zero aos LLMs | 🟡 6 aulas |
+| 00 | [Fundamentos](00-fundamentals/README.pt-BR.md): trilha didática do zero aos LLMs | 🟡 7 aulas |
 | 01 | [Frameworks](01-frameworks/README.pt-BR.md): OWASP LLM Top 10 × MITRE ATLAS | ✅ v1 |
 | 02 | [Prompt Injection](02-prompt-injection/): direta, indireta, jailbreaks | 🟡 1 técnica |
 | 03 | [Ataques via saída do LLM](03-output-attacks/): improper output handling | 🚧 |

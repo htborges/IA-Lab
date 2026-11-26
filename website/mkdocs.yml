@@ -77,6 +77,7 @@ plugins:
             Classic ML: ML clássico
             05 · Linear and logistic regression: 05 · Regressão linear e logística
             06 · Trees, Naive Bayes and SVM: 06 · Árvores, Naive Bayes e SVM
+            07 · Unsupervised learning: 07 · Aprendizado não supervisionado
             Attacks: Ataques
             Overview: Visão geral
             Direct Prompt Injection: Prompt Injection Direta
@@ -103,6 +104,7 @@ nav:
       - Classic ML:
           - 05 · Linear and logistic regression: 00-fundamentals/05-linear-logistic-regression.md
           - 06 · Trees, Naive Bayes and SVM: 00-fundamentals/06-trees-naive-bayes-svm.md
+          - 07 · Unsupervised learning: 00-fundamentals/07-unsupervised-learning.md
       - Frameworks: 01-frameworks/index.md
   - Attacks:
       - Prompt Injection:

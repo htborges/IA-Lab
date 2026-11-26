@@ -260,4 +260,4 @@ A saída de uma árvore muda em degraus, então o gradiente é zero em quase tod
 
 ---
 
-← [05 · Aprendizado supervisionado I: regressão linear e logística](05-linear-logistic-regression.pt-BR.md) · **Próxima aula:** 07 · Aprendizado não supervisionado: K-Means, PCA e detecção de anomalias (em breve)
+← [05 · Aprendizado supervisionado I: regressão linear e logística](05-linear-logistic-regression.pt-BR.md) · **Próxima aula:** [07 · Aprendizado não supervisionado: K-Means, PCA e detecção de anomalias](07-unsupervised-learning.pt-BR.md) →

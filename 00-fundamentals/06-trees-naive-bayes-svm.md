@@ -260,4 +260,4 @@ A tree's output changes in steps, so the gradient is zero almost everywhere and 
 
 ---
 
-← [05 · Supervised learning I: linear and logistic regression](05-linear-logistic-regression.md) · **Next lesson:** 07 · Unsupervised learning: K-Means, PCA and anomaly detection (coming soon)
+← [05 · Supervised learning I: linear and logistic regression](05-linear-logistic-regression.md) · **Next lesson:** [07 · Unsupervised learning: K-Means, PCA and anomaly detection](07-unsupervised-learning.md) →
