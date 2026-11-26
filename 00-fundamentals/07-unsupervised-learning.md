@@ -233,4 +233,4 @@ With **mimicry**: lowering connection frequency, using common ports and protocol
 
 ---
 
-← [06 · Supervised learning II: decision trees, Naive Bayes and SVM](06-trees-naive-bayes-svm.md) · **Next lesson:** 08 · Reinforcement learning: agents, rewards, Q-Learning and SARSA (coming soon)
+← [06 · Supervised learning II: decision trees, Naive Bayes and SVM](06-trees-naive-bayes-svm.md) · **Next lesson:** [08 · Reinforcement learning: agents, rewards, Q-Learning and SARSA](08-reinforcement-learning.md) →

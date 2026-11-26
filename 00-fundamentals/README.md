@@ -34,7 +34,7 @@ A learning track to understand **how AI works under the hood**, from zero to LLM
 | 05 | [Supervised learning I](05-linear-logistic-regression.md): linear and logistic regression | ✅ |
 | 06 | [Supervised learning II](06-trees-naive-bayes-svm.md): decision trees, Naive Bayes and SVM | ✅ |
 | 07 | [Unsupervised learning](07-unsupervised-learning.md): K-Means, PCA and anomaly detection | ✅ |
-| 08 | Reinforcement learning: agents, rewards, Q-Learning and SARSA | 🚧 |
+| 08 | [Reinforcement learning](08-reinforcement-learning.md): agents, rewards, Q-Learning and SARSA | ✅ |
 
 ### Part 3: Deep Learning
 

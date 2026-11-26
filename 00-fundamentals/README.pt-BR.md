@@ -34,7 +34,7 @@ Uma trilha didática para entender **como a IA funciona por dentro**, do zero at
 | 05 | [Aprendizado supervisionado I](05-linear-logistic-regression.pt-BR.md): regressão linear e logística | ✅ |
 | 06 | [Aprendizado supervisionado II](06-trees-naive-bayes-svm.pt-BR.md): árvores de decisão, Naive Bayes e SVM | ✅ |
 | 07 | [Aprendizado não supervisionado](07-unsupervised-learning.pt-BR.md): K-Means, PCA e detecção de anomalias | ✅ |
-| 08 | Aprendizado por reforço: agentes, recompensas, Q-Learning e SARSA | 🚧 |
+| 08 | [Aprendizado por reforço](08-reinforcement-learning.pt-BR.md): agentes, recompensas, Q-Learning e SARSA | ✅ |
 
 ### Parte 3: Deep Learning
 

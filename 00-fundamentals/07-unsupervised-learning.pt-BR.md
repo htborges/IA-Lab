@@ -233,4 +233,4 @@ Com **mimetismo**: reduzir a frequência das conexões, usar portas e protocolos
 
 ---
 
-← [06 · Aprendizado supervisionado II: árvores de decisão, Naive Bayes e SVM](06-trees-naive-bayes-svm.pt-BR.md) · **Próxima aula:** 08 · Aprendizado por reforço: agentes, recompensas, Q-Learning e SARSA (em breve)
+← [06 · Aprendizado supervisionado II: árvores de decisão, Naive Bayes e SVM](06-trees-naive-bayes-svm.pt-BR.md) · **Próxima aula:** [08 · Aprendizado por reforço: agentes, recompensas, Q-Learning e SARSA](08-reinforcement-learning.pt-BR.md) →
