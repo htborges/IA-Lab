@@ -51,7 +51,7 @@
 .md-typeset p,
 .md-typeset li { color: var(--md-typeset-color); }
 /* Coloured cards set their own text colour */
-.md-typeset .ial-hero p,
+.md-typeset .ial-hero p:not([class]),
 .md-typeset .ial-mini > p,
 .md-typeset .ial-promo > p { color: inherit; }
 .md-typeset h1,
