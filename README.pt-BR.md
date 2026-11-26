@@ -43,7 +43,7 @@ Teoria → Mapeamento (OWASP / MITRE ATLAS) → Lab reproduzível → Exploraç�
 | 00 | [Fundamentos](00-fundamentals/README.pt-BR.md): trilha didática do zero aos LLMs | ✅ 13 aulas |
 | 01 | [Frameworks](01-frameworks/README.pt-BR.md): OWASP LLM Top 10 × MITRE ATLAS | ✅ v1 |
 | 02 | [Prompt Injection](02-prompt-injection/): direta, indireta, jailbreaks | 🟡 4 técnicas |
-| 03 | [Ataques via saída do LLM](03-output-attacks/): improper output handling | 🚧 |
+| 03 | [Ataques via saída do LLM](03-output-attacks/README.pt-BR.md): XSS, SQLi, command injection e SSRF via saída do modelo | 🟡 2 técnicas |
 | 04 | [Dados e Supply Chain](04-data-attacks/): poisoning, backdoors, pickle | 🚧 |
 | 05 | [Aplicação e Sistema](05-app-and-system/): RAG, tools, agents, MCP | 🚧 |
 | 06 | [Evasão](06-evasion/): adversarial examples | 🚧 |
@@ -56,7 +56,7 @@ Novas técnicas usam o [template](templates/technique.pt-BR.md).
 ## Roadmap
 
 - [x] **Fase 1: Fundação.** Estrutura, disclaimer, template, mapeamento de frameworks
-- [ ] **Fase 2: Núcleo LLM (em andamento).** Prompt injection, output attacks, primeiro lab (chatbot RAG vulnerável)
+- [ ] **Fase 2: Núcleo LLM (em andamento: conteúdo escrito, falta validar o lab).** Prompt injection, output attacks, primeiro lab (chatbot RAG vulnerável)
 - [ ] **Fase 3: Sistemas.** Agents, abuso de tools, MCP, lab de agente vulnerável
 - [ ] **Fase 4: ML clássico.** Evasão, poisoning, privacidade (notebooks Jupyter)
 - [ ] **Fase 5: Defesa e metodologia.** Guardrails, template de relatório, checklist de engajamento

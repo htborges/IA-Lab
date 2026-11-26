@@ -57,7 +57,7 @@ Every attack in IA-Lab follows the same cycle and **always ends with the defense
 
     [:octicons-arrow-right-24: Explore](02-prompt-injection/index.md)
 
--   :material-code-tags:{ .lg } **LLM Output Attacks** <span class="ial-badge soon">soon</span>
+-   :material-code-tags:{ .lg } **LLM Output Attacks** <span class="ial-badge live">2 techniques</span>
 
     ---
 

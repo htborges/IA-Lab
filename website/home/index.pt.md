@@ -57,7 +57,7 @@ Todo ataque no IA-Lab segue o mesmo ciclo e **sempre termina na defesa**. Um ach
 
     [:octicons-arrow-right-24: Explorar](02-prompt-injection/index.md)
 
--   :material-code-tags:{ .lg } **Ataques via Saída** <span class="ial-badge soon">em breve</span>
+-   :material-code-tags:{ .lg } **Ataques via Saída** <span class="ial-badge live">2 técnicas</span>
 
     ---
 

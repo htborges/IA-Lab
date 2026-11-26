@@ -43,7 +43,7 @@ Theory → Mapping (OWASP / MITRE ATLAS) → Reproducible lab → Exploitation �
 | 00 | [Fundamentals](00-fundamentals/): a learning track from zero to LLMs | ✅ 13 lessons |
 | 01 | [Frameworks](01-frameworks/): OWASP LLM Top 10 × MITRE ATLAS | ✅ v1 |
 | 02 | [Prompt Injection](02-prompt-injection/): direct, indirect, jailbreaks | 🟡 4 techniques |
-| 03 | [LLM Output Attacks](03-output-attacks/): improper output handling | 🚧 |
+| 03 | [LLM Output Attacks](03-output-attacks/): XSS, SQLi, command injection, SSRF via model output | 🟡 2 techniques |
 | 04 | [Data & Supply Chain](04-data-attacks/): poisoning, backdoors, pickle | 🚧 |
 | 05 | [Application & System](05-app-and-system/): RAG, tools, agents, MCP | 🚧 |
 | 06 | [Evasion](06-evasion/): adversarial examples | 🚧 |
@@ -56,7 +56,7 @@ New techniques use the [template](templates/technique.md).
 ## Roadmap
 
 - [x] **Phase 1: Foundation.** Structure, disclaimer, template, framework mapping
-- [ ] **Phase 2: LLM core (in progress).** Prompt injection, output attacks, first lab (vulnerable RAG chatbot)
+- [ ] **Phase 2: LLM core (in progress: content written, lab still to be validated).** Prompt injection, output attacks, first lab (vulnerable RAG chatbot)
 - [ ] **Phase 3: Systems.** Agents, tool abuse, MCP, vulnerable agent lab
 - [ ] **Phase 4: Classic ML.** Evasion, poisoning, privacy (Jupyter notebooks)
 - [ ] **Phase 5: Defense & methodology.** Guardrails, report template, engagement checklist

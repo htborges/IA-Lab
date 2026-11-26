@@ -91,6 +91,8 @@ plugins:
             Indirect Prompt Injection: Prompt Injection Indireta
             System Prompt Leakage: Vazamento de System Prompt
             LLM Output Attacks: Ataques via Saída
+            XSS via LLM Output: XSS via saída do LLM
+            Downstream Injection: Injeção em sistemas downstream
             Data & Supply Chain: Dados e Supply Chain
             Application & System: Aplicação e Sistema
             Evasion: Evasão
@@ -130,7 +132,10 @@ nav:
           - Indirect Prompt Injection: 02-prompt-injection/indirect-prompt-injection.md
           - System Prompt Leakage: 02-prompt-injection/system-prompt-leakage.md
           - Jailbreaks: 02-prompt-injection/jailbreaks.md
-      - LLM Output Attacks: 03-output-attacks/index.md
+      - LLM Output Attacks:
+          - 03-output-attacks/index.md
+          - XSS via LLM Output: 03-output-attacks/xss-via-llm-output.md
+          - Downstream Injection: 03-output-attacks/downstream-injection.md
       - Data & Supply Chain: 04-data-attacks/index.md
       - Application & System: 05-app-and-system/index.md
       - Evasion: 06-evasion/index.md
