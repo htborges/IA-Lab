@@ -63,6 +63,7 @@ Each lesson shows its level and prerequisites in the header, and ends with a **G
 | # | Lesson | Status |
 |---|--------|--------|
 | 11 | [Generative AI and LLMs](11-llms.md): tokens, embeddings, Transformers and attention | ✅ |
+| 11.1 | ↳ Deep dive: [Tokenization in depth](11-1-tokenization-deep-dive.md) | ✅ |
 | 12 | [Diffusion models](12-diffusion-models.md) | ✅ |
 | 13 | [AI systems](13-ai-systems.md): RAG, agents, tools and MCP | ✅ |
 

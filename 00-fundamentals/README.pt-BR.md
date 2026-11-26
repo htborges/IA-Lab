@@ -63,6 +63,7 @@ Cada aula mostra no cabeçalho o nível e os pré-requisitos, e termina com o bl
 | # | Aula | Status |
 |---|------|--------|
 | 11 | [IA generativa e LLMs](11-llms.pt-BR.md): tokens, embeddings, Transformers e atenção | ✅ |
+| 11.1 | ↳ Aprofundamento: [Tokenização a fundo](11-1-tokenization-deep-dive.pt-BR.md) | ✅ |
 | 12 | [Modelos de difusão](12-diffusion-models.pt-BR.md) | ✅ |
 | 13 | [Sistemas de IA](13-ai-systems.pt-BR.md): RAG, agents, tools e MCP | ✅ |
 

@@ -251,8 +251,9 @@ Because the email content, written by a third party, enters the same token seque
 
 ## Go deeper and practice
 
-IA-Lab techniques that build on this lesson:
+Deep dives and techniques that build on this lesson:
 
+- **Deep dive:** [11.1 · Tokenization in depth](11-1-tokenization-deep-dive.md)
 - **In practice:** [LLM application reconnaissance](../02-prompt-injection/llm-recon.md)
 - **In defense:** [Layered prompt injection defense](../08-defense/prompt-injection-defense.md)
 - **In practice:** [Direct prompt injection](../02-prompt-injection/direct-prompt-injection.md)

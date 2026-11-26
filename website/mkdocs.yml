@@ -84,6 +84,7 @@ plugins:
             10 · CNN and RNN: 10 · CNN e RNN
             Generative AI: IA generativa
             11 · LLMs and Transformers: 11 · LLMs e Transformers
+            11.1 · Tokenization in depth: 11.1 · Tokenização a fundo
             12 · Diffusion models: 12 · Modelos de difusão
             13 · RAG, agents and MCP: 13 · RAG, agents e MCP
             Attacks: Ataques
@@ -132,6 +133,7 @@ nav:
           - 10 · CNN and RNN: 00-fundamentals/10-cnn-rnn.md
       - Generative AI:
           - 11 · LLMs and Transformers: 00-fundamentals/11-llms.md
+          - 11.1 · Tokenization in depth: 00-fundamentals/11-1-tokenization-deep-dive.md
           - 12 · Diffusion models: 00-fundamentals/12-diffusion-models.md
           - 13 · RAG, agents and MCP: 00-fundamentals/13-ai-systems.md
       - Frameworks: 01-frameworks/index.md
