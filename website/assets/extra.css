@@ -393,6 +393,7 @@
   .md-typeset .ial-mini__icon { margin: 0 0 0 auto; align-self: center; height: 2rem; }
   .md-typeset .ial-mini__icon svg { width: 2rem; height: 2rem; }
   .ial-panel { padding: 1rem; }
-  .ial-panel__head > p { flex-wrap: wrap; }
-  .ial-progress { width: 6rem; }
+  .ial-panel__head > p { flex-wrap: wrap; gap: 0.5rem 0.8rem; }
+  .ial-panel__head:not(.ial-panel__head--plain) .ial-panel__title { flex-basis: 100%; }
+  .ial-progress { flex: 1; width: auto; }
 }
