@@ -105,19 +105,7 @@ Uma **rede neural feedforward** (ou *MLP*, *Multi-Layer Perceptron*) organiza ne
 
 ```mermaid
 flowchart LR
-    subgraph E[Camada de entrada]
-        I1((x₁)) & I2((x₂)) & I3((x₃))
-    end
-    subgraph O1[Camada oculta 1]
-        A1((a₁)) & A2((a₂)) & A3((a₃)) & A4((a₄))
-    end
-    subgraph O2[Camada oculta 2]
-        B1((b₁)) & B2((b₂)) & B3((b₃))
-    end
-    subgraph S[Saída]
-        C1((y₁)) & C2((y₂))
-    end
-    E --> O1 --> O2 --> S
+    E[Camada de entrada<br/>784 neurônios<br/>um por pixel] --> O1[Camada oculta<br/>128 neurônios<br/>ReLU] --> S[Camada de saída<br/>10 neurônios<br/>softmax]
 ```
 
 Cada camada é a multiplicação **matriz × vetor** da aula 04, seguida de uma ativação. "Profundo", em *deep learning*, quer dizer apenas **muitas camadas**.

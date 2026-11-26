@@ -105,19 +105,7 @@ A **feedforward neural network** (or *MLP*, *Multi-Layer Perceptron*) organizes 
 
 ```mermaid
 flowchart LR
-    subgraph E[Input layer]
-        I1((x₁)) & I2((x₂)) & I3((x₃))
-    end
-    subgraph O1[Hidden layer 1]
-        A1((a₁)) & A2((a₂)) & A3((a₃)) & A4((a₄))
-    end
-    subgraph O2[Hidden layer 2]
-        B1((b₁)) & B2((b₂)) & B3((b₃))
-    end
-    subgraph S[Output]
-        C1((y₁)) & C2((y₂))
-    end
-    E --> O1 --> O2 --> S
+    E[Input layer<br/>784 neurons<br/>one per pixel] --> O1[Hidden layer<br/>128 neurons<br/>ReLU] --> S[Output layer<br/>10 neurons<br/>softmax]
 ```
 
 Each layer is the **matrix × vector** multiplication from lesson 04, followed by an activation. "Deep", in *deep learning*, just means **many layers**.
