@@ -6,8 +6,8 @@
 
 **AI Red Teaming na prática: atacando e defendendo modelos de machine learning e aplicações com LLM.**
 
-[![Site](https://img.shields.io/badge/site-htborges.github.io%2FIA--Lab-8b5cf6?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://htborges.github.io/IA-Lab/pt/)
-[![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM_Top_10_2025-22d3ee?style=for-the-badge)](https://genai.owasp.org/llm-top-10/)
+[![Site](https://img.shields.io/badge/site-htborges.github.io%2FIA--Lab-ff6b57?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://htborges.github.io/IA-Lab/pt/)
+[![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM_Top_10_2025-38bdf8?style=for-the-badge)](https://genai.owasp.org/llm-top-10/)
 [![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-f43f5e?style=for-the-badge)](https://atlas.mitre.org)
 
 ![Licença](https://img.shields.io/badge/código-MIT-informational?style=flat-square)
