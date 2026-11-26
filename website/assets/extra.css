@@ -101,8 +101,11 @@
   background: none;
   border-radius: 0;
 }
-.md-nav--primary .md-nav__link--active,
 .md-nav--primary .md-nav__item--active > .md-nav__link {
+  color: var(--md-typeset-a-color);
+  font-weight: 600;
+}
+.md-nav--primary .md-nav__link--active {
   background: rgb(255 107 87 / 0.18);
   color: var(--md-typeset-a-color);
   font-weight: 600;
