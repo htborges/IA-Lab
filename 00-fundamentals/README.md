@@ -31,7 +31,7 @@ A learning track to understand **how AI works under the hood**, from zero to LLM
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 05 | Supervised learning I: linear and logistic regression | 🚧 |
+| 05 | [Supervised learning I](05-linear-logistic-regression.md): linear and logistic regression | ✅ |
 | 06 | Supervised learning II: decision trees, Naive Bayes and SVM | 🚧 |
 | 07 | Unsupervised learning: K-Means, PCA and anomaly detection | 🚧 |
 | 08 | Reinforcement learning: agents, rewards, Q-Learning and SARSA | 🚧 |

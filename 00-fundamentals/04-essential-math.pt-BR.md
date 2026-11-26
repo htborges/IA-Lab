@@ -245,4 +245,4 @@ Não muito. Em 10 mil arquivos: 1 malware (≈1 alerta verdadeiro) e 9.999 limpo
 
 ---
 
-← [03 · Como as máquinas aprendem](03-how-machines-learn.pt-BR.md) · **Próxima aula:** 05 · Aprendizado supervisionado I: regressão linear e logística (em breve)
+← [03 · Como as máquinas aprendem](03-how-machines-learn.pt-BR.md) · **Próxima aula:** [05 · Aprendizado supervisionado I: regressão linear e logística](05-linear-logistic-regression.pt-BR.md) →

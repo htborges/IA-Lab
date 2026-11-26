@@ -245,4 +245,4 @@ Not really. In 10,000 files: 1 malware (≈1 true alert) and 9,999 clean × 0.5%
 
 ---
 
-← [03 · How machines learn](03-how-machines-learn.md) · **Next lesson:** 05 · Supervised learning I: linear and logistic regression (coming soon)
+← [03 · How machines learn](03-how-machines-learn.md) · **Next lesson:** [05 · Supervised learning I: linear and logistic regression](05-linear-logistic-regression.md) →
