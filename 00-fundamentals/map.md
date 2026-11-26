@@ -41,7 +41,7 @@ flowchart LR
 | [01 · What is AI](01-what-is-ai.md) | — | — | — |
 | [02 · History of AI](02-history-of-ai.md) | 01 | — | — |
 | [03 · How machines learn](03-how-machines-learn.md) | 01 | [03.1 · Evaluation and regularization](03-1-evaluation-regularization.md) | [Data poisoning](../04-data-attacks/data-poisoning.md) |
-| [04 · Essential math](04-essential-math.md) | 03 | [04.1 · Logs and entropy](04-1-logs-and-entropy.md) | — |
+| [04 · Essential math](04-essential-math.md) | 03 | [04.1 · Logs and entropy](04-1-logs-and-entropy.md), [04.2 · Linear algebra](04-2-linear-algebra.md) | — |
 | [05 · Linear and logistic regression](05-linear-logistic-regression.md) | 03, 04 | — | [Data poisoning](../04-data-attacks/data-poisoning.md) |
 | [06 · Trees, Naive Bayes and SVM](06-trees-naive-bayes-svm.md) | 05 | [06.1 · Trees in depth](06-1-decision-trees-deep-dive.md) | [Model backdoors](../04-data-attacks/model-backdoors.md) |
 | [07 · Unsupervised learning](07-unsupervised-learning.md) | 04, 05 | — | — |

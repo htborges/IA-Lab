@@ -74,6 +74,7 @@ plugins:
             03.1 · Evaluation and regularization: 03.1 · Avaliação e regularização
             04 · Essential math: 04 · Matemática essencial
             04.1 · Logs and entropy: 04.1 · Logaritmos e entropia
+            04.2 · Linear algebra: 04.2 · Álgebra linear
             Classic ML: ML clássico
             05 · Linear and logistic regression: 05 · Regressão linear e logística
             06 · Trees, Naive Bayes and SVM: 06 · Árvores, Naive Bayes e SVM
@@ -123,6 +124,7 @@ nav:
           - 03.1 · Evaluation and regularization: 00-fundamentals/03-1-evaluation-regularization.md
           - 04 · Essential math: 00-fundamentals/04-essential-math.md
           - 04.1 · Logs and entropy: 00-fundamentals/04-1-logs-and-entropy.md
+          - 04.2 · Linear algebra: 00-fundamentals/04-2-linear-algebra.md
       - Classic ML:
           - 05 · Linear and logistic regression: 00-fundamentals/05-linear-logistic-regression.md
           - 06 · Trees, Naive Bayes and SVM: 00-fundamentals/06-trees-naive-bayes-svm.md

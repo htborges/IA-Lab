@@ -223,4 +223,4 @@ Os sufixos GCG são sequências de tokens sem sentido, de perplexidade muito alt
 
 ---
 
-← [04 · Matemática essencial para IA](04-essential-math.pt-BR.md) · **Próxima aula da trilha:** [05 · Regressão linear e logística](05-linear-logistic-regression.pt-BR.md) →
+← [04 · Matemática essencial para IA](04-essential-math.pt-BR.md) · **Próximo:** [04.2 · Álgebra linear para ML](04-2-linear-algebra.pt-BR.md) →

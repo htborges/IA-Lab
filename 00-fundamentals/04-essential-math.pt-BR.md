@@ -250,6 +250,7 @@ Não muito. Em 10 mil arquivos: 1 malware (≈1 alerta verdadeiro) e 9.999 limpo
 Aprofundamentos que partem desta aula:
 
 - **Aprofundamento:** [04.1 · Logaritmos, exponenciais e entropia](04-1-logs-and-entropy.pt-BR.md)
+- **Aprofundamento:** [04.2 · Álgebra linear para ML](04-2-linear-algebra.pt-BR.md)
 
 ---
 

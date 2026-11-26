@@ -40,6 +40,7 @@ Each lesson shows its level and prerequisites in the header, and ends with a **G
 | 03.1 | ↳ Deep dive: [Evaluation and regularization](03-1-evaluation-regularization.md) | ✅ |
 | 04 | [Essential math for AI](04-essential-math.md): vectors, matrices, derivatives, probability and norms | ✅ |
 | 04.1 | ↳ Deep dive: [Logarithms, exponentials and entropy](04-1-logs-and-entropy.md) | ✅ |
+| 04.2 | ↳ Deep dive: [Linear algebra for ML](04-2-linear-algebra.md) | ✅ |
 
 ### Part 2: Classic Machine Learning
 

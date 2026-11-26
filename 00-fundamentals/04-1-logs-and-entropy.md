@@ -223,4 +223,4 @@ GCG suffixes are meaningless token sequences with very high perplexity. A role-p
 
 ---
 
-← [04 · Essential math for AI](04-essential-math.md) · **Next lesson in the track:** [05 · Linear and logistic regression](05-linear-logistic-regression.md) →
+← [04 · Essential math for AI](04-essential-math.md) · **Next:** [04.2 · Linear algebra for ML](04-2-linear-algebra.md) →

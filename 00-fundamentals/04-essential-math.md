@@ -250,6 +250,7 @@ Not really. In 10,000 files: 1 malware (≈1 true alert) and 9,999 clean × 0.5%
 Deep dives that build on this lesson:
 
 - **Deep dive:** [04.1 · Logarithms, exponentials and entropy](04-1-logs-and-entropy.md)
+- **Deep dive:** [04.2 · Linear algebra for ML](04-2-linear-algebra.md)
 
 ---
 
