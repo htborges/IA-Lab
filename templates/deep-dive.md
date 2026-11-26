@@ -1,6 +1,6 @@
 # NN.M · <Deep dive title>
 
-> 🇺🇸 English · 🇧🇷 [Português](NN.M-<file>.pt-BR.md)
+> 🇺🇸 English · 🇧🇷 [Português](NN-M-<file>.pt-BR.md)
 
 | | |
 |-|-|
@@ -11,7 +11,7 @@
 | **You will learn** | One sentence on what the reader can do at the end |
 
 <!-- Rules:
-- File name: NN.M-<topic>.md and NN.M-<topic>.pt-BR.md, in the 00-fundamentals folder.
+- File name: NN-M-<topic>.md and NN-M-<topic>.pt-BR.md (hyphen instead of a dot, so the site language plugin is not confused; the title stays NN.M), in the 00-fundamentals folder.
 - Do not repeat the foundation lesson: start where it stopped ("lesson NN covered X; here we go deep into Y").
 - Every new concept must be explained here or be covered by the prerequisites.
 - Original content, from public sources. Never reproduce paid course material.
@@ -55,4 +55,4 @@ Answer.
 
 ---
 
-← [NN · <foundation lesson>](NN-<foundation-file>.md) · **Next:** [NN.M+1 · <title>](NN.M+1-<file>.md) →
+← [NN · <foundation lesson>](NN-<foundation-file>.md) · **Next:** [NN.M+1 · <title>](NN-M+1-<file>.md) →

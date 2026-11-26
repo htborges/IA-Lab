@@ -245,6 +245,12 @@ Not really. In 10,000 files: 1 malware (≈1 true alert) and 9,999 clean × 0.5%
 **L0**, which counts how many positions changed. It is a **sparse** attack.
 </details>
 
+## Go deeper and practice
+
+Deep dives that build on this lesson:
+
+- **Deep dive:** [04.1 · Logarithms, exponentials and entropy](04-1-logs-and-entropy.md)
+
 ---
 
 ← [03 · How machines learn](03-how-machines-learn.md) · **Next lesson:** [05 · Supervised learning I: linear and logistic regression](05-linear-logistic-regression.md) →

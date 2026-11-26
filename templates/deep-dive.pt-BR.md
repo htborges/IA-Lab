@@ -1,6 +1,6 @@
 # NN.M · <Título do aprofundamento>
 
-> 🇧🇷 Português · 🇺🇸 [English](NN.M-<arquivo>.md)
+> 🇧🇷 Português · 🇺🇸 [English](NN-M-<arquivo>.md)
 
 | | |
 |-|-|
@@ -11,7 +11,7 @@
 | **Você vai aprender** | Uma frase com o que a pessoa sabe fazer ao final |
 
 <!-- Regras:
-- Nome do arquivo: NN.M-<tema>.md e NN.M-<tema>.pt-BR.md, na pasta 00-fundamentals.
+- Nome do arquivo: NN-M-<tema>.md e NN-M-<tema>.pt-BR.md (hífen em vez de ponto, para não confundir o plugin de idiomas do site; o título continua NN.M), na pasta 00-fundamentals.
 - Não repetir a aula-base: comece de onde ela parou ("na aula NN vimos X; aqui vamos a fundo em Y").
 - Todo conceito novo precisa ser explicado aqui ou estar nos pré-requisitos.
 - Conteúdo original, a partir de fontes públicas. Nunca reproduzir material de cursos pagos.
@@ -55,4 +55,4 @@ Resposta.
 
 ---
 
-← [NN · <aula-base>](NN-<arquivo-base>.pt-BR.md) · **Próximo:** [NN.M+1 · <título>](NN.M+1-<arquivo>.pt-BR.md) →
+← [NN · <aula-base>](NN-<arquivo-base>.pt-BR.md) · **Próximo:** [NN.M+1 · <título>](NN-M+1-<arquivo>.pt-BR.md) →

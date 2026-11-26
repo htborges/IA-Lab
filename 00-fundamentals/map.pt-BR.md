@@ -41,7 +41,7 @@ flowchart LR
 | [01 · O que é IA](01-what-is-ai.pt-BR.md) | — | — | — |
 | [02 · História da IA](02-history-of-ai.pt-BR.md) | 01 | — | — |
 | [03 · Como as máquinas aprendem](03-how-machines-learn.pt-BR.md) | 01 | — | [Data poisoning](../04-data-attacks/data-poisoning.pt-BR.md) |
-| [04 · Matemática essencial](04-essential-math.pt-BR.md) | 03 | — | — |
+| [04 · Matemática essencial](04-essential-math.pt-BR.md) | 03 | [04.1 · Logaritmos e entropia](04-1-logs-and-entropy.pt-BR.md) | — |
 | [05 · Regressão linear e logística](05-linear-logistic-regression.pt-BR.md) | 03, 04 | — | [Data poisoning](../04-data-attacks/data-poisoning.pt-BR.md) |
 | [06 · Árvores, Naive Bayes e SVM](06-trees-naive-bayes-svm.pt-BR.md) | 05 | — | [Backdoors em modelos](../04-data-attacks/model-backdoors.pt-BR.md) |
 | [07 · Aprendizado não supervisionado](07-unsupervised-learning.pt-BR.md) | 04, 05 | — | — |

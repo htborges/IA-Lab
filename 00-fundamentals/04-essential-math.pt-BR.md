@@ -245,6 +245,12 @@ Não muito. Em 10 mil arquivos: 1 malware (≈1 alerta verdadeiro) e 9.999 limpo
 **L0**, que conta quantas posições foram alteradas. É um ataque **esparso**.
 </details>
 
+## Aprofunde e pratique
+
+Aprofundamentos que partem desta aula:
+
+- **Aprofundamento:** [04.1 · Logaritmos, exponenciais e entropia](04-1-logs-and-entropy.pt-BR.md)
+
 ---
 
 ← [03 · Como as máquinas aprendem](03-how-machines-learn.pt-BR.md) · **Próxima aula:** [05 · Aprendizado supervisionado I: regressão linear e logística](05-linear-logistic-regression.pt-BR.md) →
