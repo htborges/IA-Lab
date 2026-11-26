@@ -32,13 +32,10 @@ O **RAG** (*Retrieval-Augmented Generation*) tem duas fases:
 
 ```mermaid
 flowchart LR
-    subgraph I[Indexação: uma vez]
-        D[Documentos] --> C[Quebrar em<br/>trechos] --> E1[Gerar<br/>embeddings] --> V[(Banco<br/>vetorial)]
-    end
-    subgraph Q[Consulta: a cada pergunta]
-        P[Pergunta] --> E2[Embedding da<br/>pergunta] --> B[Buscar os trechos<br/>mais parecidos] --> M[Montar o prompt<br/>pergunta + trechos] --> L[LLM responde]
-    end
+    D[Documentos] --> E1[Trechos viram<br/>embeddings] --> V[(Banco<br/>vetorial)]
+    P[Pergunta] --> E2[Embedding da<br/>pergunta] --> B[Busca por<br/>similaridade]
     V --> B
+    B --> M[Prompt =<br/>pergunta + trechos] --> L[LLM responde]
 ```
 
 1. **Indexação:** os documentos são quebrados em trechos (*chunks*), cada trecho vira um embedding ([aula 04](04-essential-math.pt-BR.md)) e tudo vai para um **banco vetorial**.

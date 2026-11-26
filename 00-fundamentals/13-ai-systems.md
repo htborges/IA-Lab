@@ -32,13 +32,10 @@ Almost every real AI product works around those limits by connecting the model t
 
 ```mermaid
 flowchart LR
-    subgraph I[Indexing: once]
-        D[Documents] --> C[Split into<br/>chunks] --> E1[Compute<br/>embeddings] --> V[(Vector<br/>database)]
-    end
-    subgraph Q[Query: on every question]
-        P[Question] --> E2[Question<br/>embedding] --> B[Find the most<br/>similar chunks] --> M[Build the prompt<br/>question + chunks] --> L[LLM answers]
-    end
+    D[Documents] --> E1[Chunks become<br/>embeddings] --> V[(Vector<br/>database)]
+    P[Question] --> E2[Question<br/>embedding] --> B[Similarity<br/>search]
     V --> B
+    B --> M[Prompt =<br/>question + chunks] --> L[LLM answers]
 ```
 
 1. **Indexing:** the documents are split into chunks, each chunk becomes an embedding ([lesson 04](04-essential-math.md)) and everything goes into a **vector database**.
