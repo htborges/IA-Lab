@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 2 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | [01 · What is AI](01-what-is-ai.md) |
 | **Reading time** | ~15 min |
 | **You will learn** | How AI went from a philosophical idea to LLMs, why it went through "winters", and how the history of AI **security** evolved alongside it |
 

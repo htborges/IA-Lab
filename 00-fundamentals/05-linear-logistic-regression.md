@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 5 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | [03 · How machines learn](03-how-machines-learn.md), [04 · Essential math](04-essential-math.md) |
 | **Reading time** | ~25 min |
 | **You will learn** | Regression vs classification, how linear regression finds "the best line", how logistic regression becomes a classifier, how to evaluate a classifier and why linear models are so easy to attack |
 
@@ -316,6 +318,12 @@ The direction of the **weight vector**: it is the gradient of `z` with respect t
 
 A probability with many decimal places lets an attacker recover `z` and, in a linear model, **extract the weights** with few queries, and it also makes trial-and-error evasion easier. To reduce it: return only the class (or rounded probabilities), rate-limit queries and monitor for anomalous query patterns.
 </details>
+
+## Go deeper and practice
+
+IA-Lab techniques that build on this lesson:
+
+- **In practice:** [Data poisoning](../04-data-attacks/data-poisoning.md)
 
 ---
 

@@ -89,6 +89,8 @@ hide:
 </div>
 </div>
 
+[Ver o mapa da trilha: níveis, pré-requisitos e caminhos :octicons-arrow-right-24:](00-fundamentals/map.md){ .ial-link-small }
+
 <p class="ial-panel__eyebrow ial-panel__eyebrow--spaced">Superfície de ataque</p>
 
 <div class="ial-panel__head" markdown>

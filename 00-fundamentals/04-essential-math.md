@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 4 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | [03 · How machines learn](03-how-machines-learn.md) |
 | **Reading time** | ~25 min |
 | **You will learn** | The intuition behind vectors, matrices, derivatives, probability and norms, and where each one shows up in attacks on AI |
 

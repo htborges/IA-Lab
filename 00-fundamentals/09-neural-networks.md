@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 9 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | [04 · Essential math](04-essential-math.md), [05 · Linear and logistic regression](05-linear-logistic-regression.md) |
 | **Reading time** | ~30 min |
 | **You will learn** | What an artificial neuron is, why a single one cannot solve XOR, how hidden layers and activation functions fix that, how a network is trained with backpropagation, what an autoencoder is, and why the gradient that trains the network also attacks it |
 
@@ -278,6 +280,13 @@ In training, you compute the gradient of the loss with respect to the **weights*
 
 For three reasons: the file can **execute code** when loaded (pickle-based formats); the weights may contain a **backdoor** that only shows up with a trigger; and a popular public model gives an attacker **white-box** access to craft adversarial examples that also work on fine-tuned versions of it.
 </details>
+
+## Go deeper and practice
+
+IA-Lab techniques that build on this lesson:
+
+- **In practice:** [Model backdoors](../04-data-attacks/model-backdoors.md)
+- **In practice:** [Malicious model files](../04-data-attacks/malicious-model-files.md)
 
 ---
 

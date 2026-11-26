@@ -16,6 +16,18 @@ Uma trilha didática para entender **como a IA funciona por dentro**, do zero at
 | **Visão do red teamer** | Como o conceito vira superfície de ataque |
 | **Teste seu entendimento** | Perguntas com resposta escondida para fixar o conteúdo |
 
+## Níveis e mapa
+
+A trilha cresce em três níveis:
+
+| Nível | O que é |
+|-------|---------|
+| **Base** | As aulas abaixo: a intuição e o "porquê" de cada tema |
+| **Aprofundamento** | Aulas numeradas a partir da aula-base, como `11.1`, que vão a fundo num tema |
+| **Prática ofensiva** | As técnicas das seções de ataque, cada uma indicando as aulas que pressupõe |
+
+Cada aula mostra no cabeçalho o nível e os pré-requisitos, e termina com o bloco **Aprofunde e pratique**. Veja o **[Mapa da trilha](map.pt-BR.md)** para a ordem de leitura, os caminhos sugeridos e o registro de tudo o que já existe.
+
 ## Aulas
 
 ### Parte 1: Conceitos

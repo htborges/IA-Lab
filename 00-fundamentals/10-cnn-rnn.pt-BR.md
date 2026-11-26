@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 10 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | [09 · Redes neurais](09-neural-networks.pt-BR.md) |
 | **Tempo de leitura** | ~30 min |
 | **Você vai aprender** | Como uma convolução detecta padrões em imagens, por que CNNs precisam de tão poucos pesos, como uma RNN carrega memória ao longo de uma sequência, por que essa memória se apaga, e os ataques típicos contra cada arquitetura |
 

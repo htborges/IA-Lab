@@ -11,6 +11,7 @@
 | **Acesso do atacante** | Black-box (só o campo de chat) |
 | **Severidade** | Média a Crítica (depende do que o modelo vê e pode fazer) |
 | **Lab** | [`labs/vuln-chatbot-rag`](../labs/vuln-chatbot-rag/README.pt-BR.md) |
+| **Pré-requisitos** | Aula [11 · LLMs e Transformers](../00-fundamentals/11-llms.pt-BR.md) |
 
 ## TL;DR
 

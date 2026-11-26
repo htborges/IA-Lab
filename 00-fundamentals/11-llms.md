@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 11 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | [04 · Essential math](04-essential-math.md), [09 · Neural networks](09-neural-networks.md), [10 · CNN and RNN](10-cnn-rnn.md) |
 | **Reading time** | ~35 min |
 | **You will learn** | How an LLM generates text by predicting the next token, what tokens and the context window are, how attention works (with numbers), how a base model becomes an assistant, and why all of this makes prompt injection a structural problem |
 
@@ -246,6 +248,16 @@ Because the system prompt is just text inside the context window, and the "never
 
 Because the email content, written by a third party, enters the same token sequence as the system and user instructions. The model has no guaranteed way to tell "text to summarize" from "instruction to follow", so instructions hidden in the email can change its behavior.
 </details>
+
+## Go deeper and practice
+
+IA-Lab techniques that build on this lesson:
+
+- **In practice:** [Direct prompt injection](../02-prompt-injection/direct-prompt-injection.md)
+- **In practice:** [Indirect prompt injection](../02-prompt-injection/indirect-prompt-injection.md)
+- **In practice:** [Jailbreaks](../02-prompt-injection/jailbreaks.md)
+- **In practice:** [System prompt leakage](../02-prompt-injection/system-prompt-leakage.md)
+- **In practice:** [XSS via LLM output](../03-output-attacks/xss-via-llm-output.md)
 
 ---
 

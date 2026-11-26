@@ -11,6 +11,7 @@
 | **Attacker access** | Black-box: chat, or content the model reads (indirect injection) |
 | **Severity** | High to Critical (can lead to database leaks, RCE and internal network access) |
 | **Lab** | Vulnerable and fixed code snippets on this page (a dedicated lab is planned) |
+| **Prerequisites** | Lesson [13 · RAG, agents and MCP](../00-fundamentals/13-ai-systems.md) |
 
 ## TL;DR
 

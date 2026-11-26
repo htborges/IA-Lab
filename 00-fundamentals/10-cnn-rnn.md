@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 10 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | [09 · Neural networks](09-neural-networks.md) |
 | **Reading time** | ~30 min |
 | **You will learn** | How a convolution detects patterns in images, why CNNs need so few weights, how an RNN carries memory along a sequence, why that memory fades, and the typical attacks against each architecture |
 

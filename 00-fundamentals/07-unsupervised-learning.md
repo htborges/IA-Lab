@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 7 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | [04 · Essential math](04-essential-math.md), [05 · Linear and logistic regression](05-linear-logistic-regression.md) |
 | **Reading time** | ~25 min |
 | **You will learn** | How K-Means finds groups without labels, how PCA compresses many features into a few, how both become anomaly detectors, and how attackers hide inside "normal" or shift it slowly |
 

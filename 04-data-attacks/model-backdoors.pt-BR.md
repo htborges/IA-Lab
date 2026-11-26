@@ -11,6 +11,7 @@
 | **Acesso do atacante** | Escrita nos dados de treino, ou controle sobre os pesos publicados |
 | **Severidade** | Alta a Crítica (o comportamento escondido é ativado quando o atacante quiser) |
 | **Lab** | Exemplo numérico e código nesta página |
+| **Pré-requisitos** | Aula [06 · Árvores, Naive Bayes e SVM](../00-fundamentals/06-trees-naive-bayes-svm.pt-BR.md), Aula [09 · Redes neurais](../00-fundamentals/09-neural-networks.pt-BR.md) |
 
 ## TL;DR
 

@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 5 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | [03 · Como as máquinas aprendem](03-how-machines-learn.pt-BR.md), [04 · Matemática essencial](04-essential-math.pt-BR.md) |
 | **Tempo de leitura** | ~25 min |
 | **Você vai aprender** | Regressão × classificação, como a regressão linear acha "a melhor reta", como a regressão logística vira um classificador, como avaliar um classificador e por que modelos lineares são tão fáceis de atacar |
 
@@ -316,6 +318,12 @@ A direção do **vetor de pesos**: ele é o gradiente de `z` em relação à ent
 
 A probabilidade com muitas casas decimais permite recuperar `z` e, num modelo linear, **extrair os pesos** com poucas consultas, além de facilitar ataques de evasão por tentativa e erro. Reduzir: devolver só a classe (ou probabilidades arredondadas), limitar a taxa de consultas e monitorar padrões de consulta anômalos.
 </details>
+
+## Aprofunde e pratique
+
+Técnicas do IA-Lab que se apoiam nesta aula:
+
+- **Na prática:** [Data poisoning](../04-data-attacks/data-poisoning.pt-BR.md)
 
 ---
 

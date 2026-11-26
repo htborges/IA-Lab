@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 13 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | [11 · LLMs e Transformers](11-llms.pt-BR.md) |
 | **Tempo de leitura** | ~35 min |
 | **Você vai aprender** | Como o RAG busca documentos por similaridade, como um agent usa ferramentas num ciclo, o que é o MCP, por que dar dados e ações a um LLM multiplica a superfície de ataque, e como encadear uma prompt injection indireta até a exfiltração |
 
@@ -259,6 +261,14 @@ A **tríade letal** completa: conteúdo não confiável (páginas web), dados pr
 
 Porque o system prompt e os documentos estão no mesmo canal de tokens, e a regra é só uma tendência aprendida que o texto injetado pode contornar (aula 11). Defesas eficazes ficam **fora do modelo**: permissões mínimas, validação das chamadas de ferramenta, controle dos canais de saída e aprovação humana.
 </details>
+
+## Aprofunde e pratique
+
+Técnicas do IA-Lab que se apoiam nesta aula:
+
+- **Na prática:** [Injeção em sistemas downstream](../03-output-attacks/downstream-injection.pt-BR.md)
+- **Na prática:** [Prompt injection indireta](../02-prompt-injection/indirect-prompt-injection.pt-BR.md)
+- **Na prática:** [XSS via saída do LLM](../03-output-attacks/xss-via-llm-output.pt-BR.md)
 
 ---
 

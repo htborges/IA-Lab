@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 8 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | [03 · How machines learn](03-how-machines-learn.md), [04 · Essential math](04-essential-math.md) |
 | **Reading time** | ~25 min |
 | **You will learn** | The vocabulary of reinforcement learning, the explore vs exploit dilemma, how Q-Learning and SARSA learn the value of each action, and why badly defined rewards become vulnerabilities |
 
@@ -236,6 +238,12 @@ Closing tickets quickly without solving the problem: closing them as "false posi
 
 By creating situations that change the **observations** and **rewards** the agent receives: for example, triggering many false alerts so that blocking actions get "punished" as disruptive, until the agent learns not to block. It is poisoning of learning in real time.
 </details>
+
+## Go deeper and practice
+
+IA-Lab techniques that build on this lesson:
+
+- **In practice:** [Jailbreaks](../02-prompt-injection/jailbreaks.md)
 
 ---
 

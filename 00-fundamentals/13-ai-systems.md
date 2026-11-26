@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 13 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | [11 · LLMs and Transformers](11-llms.md) |
 | **Reading time** | ~35 min |
 | **You will learn** | How RAG retrieves documents by similarity, how an agent uses tools in a loop, what MCP is, why giving data and actions to an LLM multiplies the attack surface, and how to chain an indirect prompt injection all the way to exfiltration |
 
@@ -259,6 +261,14 @@ Hiding malicious instructions in the **description** of a tool from an MCP serve
 
 Because the system prompt and the documents share the same token channel, and the rule is only a learned tendency that injected text can get around (lesson 11). Effective defenses live **outside the model**: minimal permissions, validation of tool calls, control of output channels and human approval.
 </details>
+
+## Go deeper and practice
+
+IA-Lab techniques that build on this lesson:
+
+- **In practice:** [Downstream injection](../03-output-attacks/downstream-injection.md)
+- **In practice:** [Indirect prompt injection](../02-prompt-injection/indirect-prompt-injection.md)
+- **In practice:** [XSS via LLM output](../03-output-attacks/xss-via-llm-output.md)
 
 ---
 

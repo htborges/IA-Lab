@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 3 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | [01 · What is AI](01-what-is-ai.md) |
 | **Reading time** | ~20 min |
 | **You will learn** | Basic ML vocabulary, the training loop (predict → err → adjust), generalization and overfitting, the three types of learning and the ML pipeline |
 
@@ -168,6 +170,12 @@ Features are the email's input information: sender, link domains, words in the t
 
 In training, the gradient shows how to change the **weights** to decrease the error. In an attack, the gradient shows how to change the **input** to increase the error, producing small perturbations that fool the model.
 </details>
+
+## Go deeper and practice
+
+IA-Lab techniques that build on this lesson:
+
+- **In practice:** [Data poisoning](../04-data-attacks/data-poisoning.md)
 
 ---
 

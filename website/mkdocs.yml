@@ -66,6 +66,7 @@ plugins:
           nav_translations:
             Home: Início
             Fundamentals: Fundamentos
+            Track map: Mapa da trilha
             Concepts: Conceitos
             01 · What is AI: 01 · O que é IA
             02 · History of AI: 02 · História da IA
@@ -106,6 +107,7 @@ nav:
   - Home: index.md
   - Fundamentals:
       - 00-fundamentals/index.md
+      - Track map: 00-fundamentals/map.md
       - Concepts:
           - 01 · What is AI: 00-fundamentals/01-what-is-ai.md
           - 02 · History of AI: 00-fundamentals/02-history-of-ai.md

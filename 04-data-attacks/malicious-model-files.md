@@ -11,6 +11,7 @@
 | **Attacker access** | Publish an artifact the victim will download (model hub, package registry) or compromise an existing account or dependency |
 | **Severity** | Critical (code execution on the machine that loads the model, often with GPUs, cloud credentials and data access) |
 | **Lab** | Safe pickle demo on this page |
+| **Prerequisites** | Lesson [09 · Neural networks](../00-fundamentals/09-neural-networks.md) |
 
 ## TL;DR
 

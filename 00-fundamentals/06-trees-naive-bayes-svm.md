@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 6 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | [05 · Linear and logistic regression](05-linear-logistic-regression.md) |
 | **Reading time** | ~25 min |
 | **You will learn** | How a decision tree picks its questions, why forests and boosting dominate tabular data, how Naive Bayes uses Bayes' theorem to filter spam, what an SVM margin is and the kernel trick, and how to attack each of them |
 
@@ -257,6 +259,12 @@ Moving a point far from the margin **changes nothing**. Moving a support vector 
 
 A tree's output changes in steps, so the gradient is zero almost everywhere and gives no direction. The attacker uses **query-based** attacks (guided trial and error) or trains a differentiable **surrogate model**, crafts the attack on it and transfers it to the target model.
 </details>
+
+## Go deeper and practice
+
+IA-Lab techniques that build on this lesson:
+
+- **In practice:** [Model backdoors](../04-data-attacks/model-backdoors.md)
 
 ---
 

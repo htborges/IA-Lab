@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 1 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | None: start here |
 | **Reading time** | ~15 min |
 | **You will learn** | What AI is, how it differs from traditional programming, the AI → ML → DL → generative AI hierarchy, and the parts of an AI system |
 

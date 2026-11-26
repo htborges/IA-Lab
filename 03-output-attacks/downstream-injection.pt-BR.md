@@ -11,6 +11,7 @@
 | **Acesso do atacante** | Black-box: chat, ou conteúdo que o modelo lê (injeção indireta) |
 | **Severidade** | Alta a Crítica (pode chegar a vazamento do banco, RCE e acesso à rede interna) |
 | **Lab** | Trechos de código vulnerável e corrigido nesta página (um lab dedicado está planejado) |
+| **Pré-requisitos** | Aula [13 · RAG, agents e MCP](../00-fundamentals/13-ai-systems.pt-BR.md) |
 
 ## TL;DR
 

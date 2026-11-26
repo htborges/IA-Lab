@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 12 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | [09 · Redes neurais](09-neural-networks.pt-BR.md), [10 · CNN e RNN](10-cnn-rnn.pt-BR.md), [11 · LLMs e Transformers](11-llms.pt-BR.md) |
 | **Tempo de leitura** | ~25 min |
 | **Você vai aprender** | Como um modelo gera imagens removendo ruído passo a passo, por que ele aprende a prever o ruído, como o texto guia a geração, o que é difusão latente, e os riscos de segurança da mídia sintética: deepfakes, burla de filtros, memorização e envenenamento |
 

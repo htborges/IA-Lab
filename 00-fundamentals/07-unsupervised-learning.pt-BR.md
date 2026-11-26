@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 7 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | [04 · Matemática essencial](04-essential-math.pt-BR.md), [05 · Regressão linear e logística](05-linear-logistic-regression.pt-BR.md) |
 | **Tempo de leitura** | ~25 min |
 | **Você vai aprender** | Como o K-Means encontra grupos sem rótulos, como o PCA comprime muitas features em poucas, como os dois viram detectores de anomalia, e como atacantes se escondem do "normal" ou o mudam aos poucos |
 

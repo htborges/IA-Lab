@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 9 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | [04 · Matemática essencial](04-essential-math.pt-BR.md), [05 · Regressão linear e logística](05-linear-logistic-regression.pt-BR.md) |
 | **Tempo de leitura** | ~30 min |
 | **Você vai aprender** | O que é um neurônio artificial, por que um só não resolve o XOR, como camadas ocultas e funções de ativação resolvem, como uma rede é treinada com backpropagation, o que é um autoencoder, e por que o gradiente que treina a rede também a ataca |
 
@@ -278,6 +280,13 @@ No treino, calcula-se o gradiente da perda em relação aos **pesos** e muda-se 
 
 Por três motivos: o arquivo pode **executar código** ao ser carregado (formatos baseados em pickle); os pesos podem conter um **backdoor** que só aparece com um gatilho; e um modelo popular e público dá ao atacante acesso **white-box** para preparar adversarial examples que também funcionam em versões ajustadas dele.
 </details>
+
+## Aprofunde e pratique
+
+Técnicas do IA-Lab que se apoiam nesta aula:
+
+- **Na prática:** [Backdoors em modelos](../04-data-attacks/model-backdoors.pt-BR.md)
+- **Na prática:** [Arquivos de modelo maliciosos](../04-data-attacks/malicious-model-files.pt-BR.md)
 
 ---
 

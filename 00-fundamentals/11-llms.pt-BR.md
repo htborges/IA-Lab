@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 11 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | [04 · Matemática essencial](04-essential-math.pt-BR.md), [09 · Redes neurais](09-neural-networks.pt-BR.md), [10 · CNN e RNN](10-cnn-rnn.pt-BR.md) |
 | **Tempo de leitura** | ~35 min |
 | **Você vai aprender** | Como um LLM gera texto prevendo o próximo token, o que são tokens e janela de contexto, como a atenção funciona (com números), como um modelo de base vira um assistente, e por que tudo isso torna prompt injection um problema estrutural |
 
@@ -246,6 +248,16 @@ Porque o system prompt é só texto dentro da janela de contexto, e a regra "nun
 
 Porque o conteúdo do e-mail, escrito por um terceiro, entra na mesma sequência de tokens que as instruções do sistema e do usuário. O modelo não tem como distinguir de forma garantida "texto para resumir" de "instrução para seguir", então instruções escondidas no e-mail podem mudar o comportamento dele.
 </details>
+
+## Aprofunde e pratique
+
+Técnicas do IA-Lab que se apoiam nesta aula:
+
+- **Na prática:** [Prompt injection direta](../02-prompt-injection/direct-prompt-injection.pt-BR.md)
+- **Na prática:** [Prompt injection indireta](../02-prompt-injection/indirect-prompt-injection.pt-BR.md)
+- **Na prática:** [Jailbreaks](../02-prompt-injection/jailbreaks.pt-BR.md)
+- **Na prática:** [Vazamento de system prompt](../02-prompt-injection/system-prompt-leakage.pt-BR.md)
+- **Na prática:** [XSS via saída do LLM](../03-output-attacks/xss-via-llm-output.pt-BR.md)
 
 ---
 

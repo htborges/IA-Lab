@@ -11,6 +11,7 @@
 | **Acesso do atacante** | Black-box. O atacante **não precisa** acessar o chat: basta conseguir colocar texto em algo que o modelo vai ler |
 | **Severidade** | Alta a Crítica (depende dos dados e ações que o sistema tem) |
 | **Lab** | [`labs/vuln-chatbot-rag`](../labs/vuln-chatbot-rag/README.pt-BR.md) |
+| **Pré-requisitos** | Aula [11 · LLMs e Transformers](../00-fundamentals/11-llms.pt-BR.md), Aula [13 · RAG, agents e MCP](../00-fundamentals/13-ai-systems.pt-BR.md) |
 
 ## TL;DR
 

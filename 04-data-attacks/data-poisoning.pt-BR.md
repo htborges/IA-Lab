@@ -11,6 +11,7 @@
 | **Acesso do atacante** | Escrita em alguma fonte de dados de treino. Não precisa de acesso ao modelo |
 | **Severidade** | Média a Crítica (depende do que o modelo decide e de quanto tempo o envenenamento passa despercebido) |
 | **Lab** | Exemplo numérico e código nesta página |
+| **Pré-requisitos** | Aula [03 · Como as máquinas aprendem](../00-fundamentals/03-how-machines-learn.pt-BR.md), Aula [05 · Regressão linear e logística](../00-fundamentals/05-linear-logistic-regression.pt-BR.md) |
 
 ## TL;DR
 

@@ -16,6 +16,18 @@ A learning track to understand **how AI works under the hood**, from zero to LLM
 | **Red teamer's view** | How the concept becomes attack surface |
 | **Check your understanding** | Questions with hidden answers to lock in the content |
 
+## Levels and map
+
+The track grows in three levels:
+
+| Level | What it is |
+|-------|------------|
+| **Foundation** | The lessons below: the intuition and the "why" of each topic |
+| **Deep dive** | Lessons numbered after their foundation lesson, such as `11.1`, that go deep into one topic |
+| **Offensive practice** | The techniques in the attack sections, each one listing the lessons it assumes |
+
+Each lesson shows its level and prerequisites in the header, and ends with a **Go deeper and practice** block. See the **[Track map](map.md)** for reading order, suggested paths and a registry of everything that already exists.
+
 ## Lessons
 
 ### Part 1: Concepts

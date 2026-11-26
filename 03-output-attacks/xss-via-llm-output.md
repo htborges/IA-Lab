@@ -11,6 +11,7 @@
 | **Attacker access** | Black-box. Directly through the chat (self-XSS) or indirectly through content the model reads (stored XSS) |
 | **Severity** | Medium to High (High when it reaches other users or administrators) |
 | **Lab** | [`labs/vuln-chatbot-rag`](../labs/vuln-chatbot-rag/README.md) |
+| **Prerequisites** | Lesson [11 · LLMs and Transformers](../00-fundamentals/11-llms.md), Lesson [13 · RAG, agents and MCP](../00-fundamentals/13-ai-systems.md) |
 
 ## TL;DR
 

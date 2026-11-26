@@ -11,6 +11,7 @@
 | **Attacker access** | Write access to some training data source. No model access needed |
 | **Severity** | Medium to Critical (depends on what the model decides and how long the poisoning goes unnoticed) |
 | **Lab** | Numeric example and code on this page |
+| **Prerequisites** | Lesson [03 · How machines learn](../00-fundamentals/03-how-machines-learn.md), Lesson [05 · Linear and logistic regression](../00-fundamentals/05-linear-logistic-regression.md) |
 
 ## TL;DR
 

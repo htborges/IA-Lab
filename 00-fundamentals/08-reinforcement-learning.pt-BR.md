@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 8 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | [03 · Como as máquinas aprendem](03-how-machines-learn.pt-BR.md), [04 · Matemática essencial](04-essential-math.pt-BR.md) |
 | **Tempo de leitura** | ~25 min |
 | **Você vai aprender** | O vocabulário do aprendizado por reforço, o dilema entre explorar e aproveitar, como o Q-Learning e o SARSA aprendem o valor de cada ação, e por que recompensas mal definidas viram vulnerabilidades |
 
@@ -236,6 +238,12 @@ Fechar tickets rapidamente sem resolver o problema: fechar como "falso positivo"
 
 Gerando situações que mudam as **observações** e as **recompensas** que o agente recebe: por exemplo, provocando muitos alertas falsos para que ações de bloqueio sejam "punidas" como disruptivas, até o agente aprender a não bloquear. É envenenamento do aprendizado em tempo real.
 </details>
+
+## Aprofunde e pratique
+
+Técnicas do IA-Lab que se apoiam nesta aula:
+
+- **Na prática:** [Jailbreaks](../02-prompt-injection/jailbreaks.pt-BR.md)
 
 ---
 

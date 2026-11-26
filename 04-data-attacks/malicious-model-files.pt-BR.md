@@ -11,6 +11,7 @@
 | **Acesso do atacante** | Publicar um artefato que a vítima vai baixar (hub de modelos, repositório de pacotes) ou comprometer uma conta ou dependência existente |
 | **Severidade** | Crítica (execução de código na máquina que carrega o modelo, muitas vezes com GPU, credenciais de nuvem e acesso a dados) |
 | **Lab** | Demonstração segura de pickle nesta página |
+| **Pré-requisitos** | Aula [09 · Redes neurais](../00-fundamentals/09-neural-networks.pt-BR.md) |
 
 ## TL;DR
 

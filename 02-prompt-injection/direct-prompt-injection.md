@@ -11,6 +11,7 @@
 | **Attacker access** | Black-box (just the chat input) |
 | **Severity** | Medium to Critical (depends on what the model can see and do) |
 | **Lab** | [`labs/vuln-chatbot-rag`](../labs/vuln-chatbot-rag/) |
+| **Prerequisites** | Lesson [11 · LLMs and Transformers](../00-fundamentals/11-llms.md) |
 
 ## TL;DR
 

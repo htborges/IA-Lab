@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 2 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | [01 · O que é IA](01-what-is-ai.pt-BR.md) |
 | **Tempo de leitura** | ~15 min |
 | **Você vai aprender** | Como a IA saiu de uma ideia filosófica até os LLMs, por que ela passou por "invernos" e como a história da **segurança** de IA andou junto |
 

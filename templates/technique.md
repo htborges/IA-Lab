@@ -11,6 +11,7 @@
 | **Attacker access** | Black-box / Gray-box / White-box |
 | **Severity** | Low / Medium / High / Critical |
 | **Lab** | [`labs/<lab-name>`](../labs/<lab-name>/) |
+| **Prerequisites** | Lesson [NN · <title>](../00-fundamentals/<file>.md) |
 
 ## TL;DR
 

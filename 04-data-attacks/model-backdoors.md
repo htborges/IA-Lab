@@ -11,6 +11,7 @@
 | **Attacker access** | Write access to training data, or control over the published weights |
 | **Severity** | High to Critical (the hidden behavior fires whenever the attacker wants) |
 | **Lab** | Numeric example and code on this page |
+| **Prerequisites** | Lesson [06 · Trees, Naive Bayes and SVM](../00-fundamentals/06-trees-naive-bayes-svm.md), Lesson [09 · Neural networks](../00-fundamentals/09-neural-networks.md) |
 
 ## TL;DR
 

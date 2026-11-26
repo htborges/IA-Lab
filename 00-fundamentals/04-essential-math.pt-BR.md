@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 4 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | [03 · Como as máquinas aprendem](03-how-machines-learn.pt-BR.md) |
 | **Tempo de leitura** | ~25 min |
 | **Você vai aprender** | A intuição por trás de vetores, matrizes, derivadas, probabilidade e normas, e onde cada uma aparece em ataques a IA |
 

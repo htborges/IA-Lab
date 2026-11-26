@@ -11,6 +11,7 @@
 | **Attacker access** | Black-box (chat field only) |
 | **Severity** | Low to Critical (depends on what is written in the prompt) |
 | **Lab** | [`labs/vuln-chatbot-rag`](../labs/vuln-chatbot-rag/README.md) |
+| **Prerequisites** | Lesson [11 · LLMs and Transformers](../00-fundamentals/11-llms.md) |
 
 ## TL;DR
 

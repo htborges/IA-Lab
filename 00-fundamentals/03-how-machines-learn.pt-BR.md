@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 3 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | [01 · O que é IA](01-what-is-ai.pt-BR.md) |
 | **Tempo de leitura** | ~20 min |
 | **Você vai aprender** | O vocabulário básico de ML, o ciclo de treinamento (prever → errar → ajustar), generalização e overfitting, os três tipos de aprendizado e o pipeline de ML |
 
@@ -168,6 +170,12 @@ Features são as informações de entrada do e-mail: remetente, domínio dos lin
 
 No treino, o gradiente indica como mudar os **pesos** para diminuir o erro. Num ataque, o gradiente indica como mudar a **entrada** para aumentar o erro, gerando pequenas perturbações que enganam o modelo.
 </details>
+
+## Aprofunde e pratique
+
+Técnicas do IA-Lab que se apoiam nesta aula:
+
+- **Na prática:** [Data poisoning](../04-data-attacks/data-poisoning.pt-BR.md)
 
 ---
 

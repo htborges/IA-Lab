@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 6 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | [05 · Regressão linear e logística](05-linear-logistic-regression.pt-BR.md) |
 | **Tempo de leitura** | ~25 min |
 | **Você vai aprender** | Como uma árvore de decisão escolhe suas perguntas, por que florestas e boosting dominam dados tabulares, como o Naive Bayes usa o teorema de Bayes para filtrar spam, o que é a margem de uma SVM e o truque do kernel, e como atacar cada um deles |
 
@@ -257,6 +259,12 @@ Mover um ponto longe da margem **não muda nada**. Mover um vetor de suporte (ou
 
 A saída de uma árvore muda em degraus, então o gradiente é zero em quase todo lugar e não indica direção. O atacante usa ataques por **consulta** (tentativa e erro guiada) ou treina um **modelo substituto** diferenciável, gera o ataque nele e o transfere para o modelo alvo.
 </details>
+
+## Aprofunde e pratique
+
+Técnicas do IA-Lab que se apoiam nesta aula:
+
+- **Na prática:** [Backdoors em modelos](../04-data-attacks/model-backdoors.pt-BR.md)
 
 ---
 

@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Track** | [AI Fundamentals](README.md) · Lesson 12 of 13 |
+| **Level** | Foundation |
+| **Prerequisites** | [09 · Neural networks](09-neural-networks.md), [10 · CNN and RNN](10-cnn-rnn.md), [11 · LLMs and Transformers](11-llms.md) |
 | **Reading time** | ~25 min |
 | **You will learn** | How a model generates images by removing noise step by step, why it learns to predict the noise, how text guides generation, what latent diffusion is, and the security risks of synthetic media: deepfakes, filter bypass, memorization and poisoning |
 

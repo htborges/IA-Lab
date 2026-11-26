@@ -11,6 +11,7 @@
 | **Acesso do atacante** | Black-box na maioria das técnicas; white-box para ataques de otimização como o GCG |
 | **Severidade** | Média a Alta (depende do que o modelo passa a produzir ou fazer) |
 | **Lab** | [`labs/vuln-chatbot-rag`](../labs/vuln-chatbot-rag/README.pt-BR.md) (nível 2, como regra de política) |
+| **Pré-requisitos** | Aula [08 · Aprendizado por reforço](../00-fundamentals/08-reinforcement-learning.pt-BR.md), Aula [11 · LLMs e Transformers](../00-fundamentals/11-llms.pt-BR.md) |
 
 ## TL;DR
 

@@ -5,6 +5,8 @@
 | | |
 |-|-|
 | **Trilha** | [Fundamentos de IA](README.pt-BR.md) · Aula 1 de 13 |
+| **Nível** | Base |
+| **Pré-requisitos** | Nenhum: comece por aqui |
 | **Tempo de leitura** | ~15 min |
 | **Você vai aprender** | O que é IA, como ela difere da programação tradicional, a hierarquia IA → ML → DL → IA generativa e quais peças formam um sistema de IA |
 

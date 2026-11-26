@@ -11,6 +11,7 @@
 | **Acesso do atacante** | Black-box / Gray-box / White-box |
 | **Severidade** | Baixa / Média / Alta / Crítica |
 | **Lab** | [`labs/<nome-do-lab>`](../labs/<nome-do-lab>/) |
+| **Pré-requisitos** | Aula [NN · <título>](../00-fundamentals/<arquivo>.pt-BR.md) |
 
 ## TL;DR
 

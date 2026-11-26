@@ -89,6 +89,8 @@ hide:
 </div>
 </div>
 
+[See the track map: levels, prerequisites and paths :octicons-arrow-right-24:](00-fundamentals/map.md){ .ial-link-small }
+
 <p class="ial-panel__eyebrow ial-panel__eyebrow--spaced">Attack surface</p>
 
 <div class="ial-panel__head" markdown>
