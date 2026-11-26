@@ -34,4 +34,15 @@ find "$OUT" -name '*.md' -exec sed -i -E \
   -e '/^> 🇺🇸 English · 🇧🇷/d' \
   -e '/^> 🇧🇷 Português · 🇺🇸/d' {} +
 
+# GitHub alerts (> [!TIP]) -> Material admonitions (!!! tip "Title").
+# A bold first line inside the alert (> **Title**) becomes the admonition title.
+find "$OUT" -name '*.md' -exec perl -0pi -e '
+  my %t = (NOTE=>"note", TIP=>"tip", IMPORTANT=>"info", WARNING=>"warning", CAUTION=>"danger");
+  s{^> \[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\][ \t]*\n((?:>.*(?:\n|\z))*)}{
+    my ($k, $b) = ($1, $2); my $title = "";
+    if ($b =~ s/\A> ?\*\*(.+?)\*\*[ \t]*\n//) { $title = " \"$1\""; }
+    $b =~ s/^> ?/    /mg;
+    "!!! $t{$k}$title\n$b\n"
+  }gme' {} +
+
 echo "Site content ready in $OUT"

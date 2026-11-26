@@ -12,7 +12,7 @@ hide:
 
 <p class="ial-tagline">Hands-on AI Red Teaming. Attacking and defending machine learning models and LLM applications, from prompt injection to adversarial examples.</p>
 
-[Start with the frameworks](01-frameworks/index.md){ .md-button .md-button--primary }
+[Start learning](00-fundamentals/index.md){ .md-button .md-button--primary }
 [View on GitHub :fontawesome-brands-github:](https://github.com/htborges/IA-Lab){ .md-button }
 
 </div>
@@ -22,6 +22,28 @@ hide:
 </div>
 
 Every attack in IA-Lab follows the same cycle and **always ends with the defense**. A red team finding is only useful if someone can fix it.
+
+## Learn
+
+<div class="grid cards" markdown>
+
+-   :material-school:{ .lg } **AI Fundamentals** <span class="ial-badge live">3 lessons</span>
+
+    ---
+
+    What AI is, where it came from and how machines learn. A beginner-friendly track, from zero to LLMs, with a red teamer's view in every lesson.
+
+    [:octicons-arrow-right-24: Start the track](00-fundamentals/index.md)
+
+-   :material-map-search:{ .lg } **Frameworks** <span class="ial-badge live">v1</span>
+
+    ---
+
+    OWASP Top 10 for LLM Applications mapped to MITRE ATLAS. The vocabulary of AI security.
+
+    [:octicons-arrow-right-24: Mapping](01-frameworks/index.md)
+
+</div>
 
 ## Attack surface
 
@@ -96,14 +118,6 @@ Every attack in IA-Lab follows the same cycle and **always ends with the defense
     Guardrails, detection, monitoring and secure architecture.
 
     [:octicons-arrow-right-24: Explore](08-defense/index.md)
-
--   :material-map-search:{ .lg } **Frameworks** <span class="ial-badge live">v1</span>
-
-    ---
-
-    OWASP Top 10 for LLM Applications mapped to MITRE ATLAS.
-
-    [:octicons-arrow-right-24: Mapping](01-frameworks/index.md)
 
 </div>
 

@@ -69,6 +69,10 @@ plugins:
           nav_translations:
             Home: Início
             Fundamentals: Fundamentos
+            Concepts: Conceitos
+            01 · What is AI: 01 · O que é IA
+            02 · History of AI: 02 · História da IA
+            03 · How machines learn: 03 · Como as máquinas aprendem
             Attacks: Ataques
             Overview: Visão geral
             Direct Prompt Injection: Prompt Injection Direta
@@ -87,6 +91,10 @@ nav:
   - Home: index.md
   - Fundamentals:
       - 00-fundamentals/index.md
+      - Concepts:
+          - 01 · What is AI: 00-fundamentals/01-what-is-ai.md
+          - 02 · History of AI: 00-fundamentals/02-history-of-ai.md
+          - 03 · How machines learn: 00-fundamentals/03-how-machines-learn.md
       - Frameworks: 01-frameworks/index.md
   - Attacks:
       - Prompt Injection:
