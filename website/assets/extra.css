@@ -54,7 +54,16 @@
   margin: 0 auto 1.6rem;
   color: var(--md-default-fg-color--light);
 }
+.ial-hero .headerlink { display: none; }
 .ial-hero .md-button { margin: 0.25rem; border-radius: 999px; }
+.ial-hero .md-button:not(.md-button--primary) {
+  color: var(--md-default-fg-color);
+  border-color: rgb(139 92 246 / 0.6);
+}
+.ial-hero .md-button:not(.md-button--primary):hover {
+  border-color: var(--ial-cyan);
+  color: var(--ial-cyan);
+}
 .ial-hero .md-button--primary {
   background: linear-gradient(90deg, var(--ial-violet), #6366f1);
   border: none;

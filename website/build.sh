@@ -30,6 +30,7 @@ done
 find "$OUT" -name '*.md' -exec sed -i -E \
   -e 's#README(\.pt-BR)?\.md#index\1.md#g' \
   -e 's#\.pt-BR\.md#.pt.md#g' \
+  -e 's|\]\(([^):#]*)/\)|](\1/index.md)|g' \
   -e '/^> 🇺🇸 English · 🇧🇷/d' \
   -e '/^> 🇧🇷 Português · 🇺🇸/d' {} +
 
