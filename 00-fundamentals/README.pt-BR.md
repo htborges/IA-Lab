@@ -32,7 +32,7 @@ Uma trilha didática para entender **como a IA funciona por dentro**, do zero at
 | # | Aula | Status |
 |---|------|--------|
 | 05 | [Aprendizado supervisionado I](05-linear-logistic-regression.pt-BR.md): regressão linear e logística | ✅ |
-| 06 | Aprendizado supervisionado II: árvores de decisão, Naive Bayes e SVM | 🚧 |
+| 06 | [Aprendizado supervisionado II](06-trees-naive-bayes-svm.pt-BR.md): árvores de decisão, Naive Bayes e SVM | ✅ |
 | 07 | Aprendizado não supervisionado: K-Means, PCA e detecção de anomalias | 🚧 |
 | 08 | Aprendizado por reforço: agentes, recompensas, Q-Learning e SARSA | 🚧 |
 

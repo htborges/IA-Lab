@@ -319,4 +319,4 @@ A probabilidade com muitas casas decimais permite recuperar `z` e, num modelo li
 
 ---
 
-← [04 · Matemática essencial para IA](04-essential-math.pt-BR.md) · **Próxima aula:** 06 · Aprendizado supervisionado II: árvores de decisão, Naive Bayes e SVM (em breve)
+← [04 · Matemática essencial para IA](04-essential-math.pt-BR.md) · **Próxima aula:** [06 · Aprendizado supervisionado II: árvores de decisão, Naive Bayes e SVM](06-trees-naive-bayes-svm.pt-BR.md) →

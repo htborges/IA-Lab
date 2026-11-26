@@ -27,7 +27,7 @@ Every attack in IA-Lab follows the same cycle and **always ends with the defense
 
 <div class="grid cards" markdown>
 
--   :material-school:{ .lg } **AI Fundamentals** <span class="ial-badge live">5 lessons</span>
+-   :material-school:{ .lg } **AI Fundamentals** <span class="ial-badge live">6 lessons</span>
 
     ---
 

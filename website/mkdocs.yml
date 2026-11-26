@@ -76,6 +76,7 @@ plugins:
             04 · Essential math: 04 · Matemática essencial
             Classic ML: ML clássico
             05 · Linear and logistic regression: 05 · Regressão linear e logística
+            06 · Trees, Naive Bayes and SVM: 06 · Árvores, Naive Bayes e SVM
             Attacks: Ataques
             Overview: Visão geral
             Direct Prompt Injection: Prompt Injection Direta
@@ -101,6 +102,7 @@ nav:
           - 04 · Essential math: 00-fundamentals/04-essential-math.md
       - Classic ML:
           - 05 · Linear and logistic regression: 00-fundamentals/05-linear-logistic-regression.md
+          - 06 · Trees, Naive Bayes and SVM: 00-fundamentals/06-trees-naive-bayes-svm.md
       - Frameworks: 01-frameworks/index.md
   - Attacks:
       - Prompt Injection:

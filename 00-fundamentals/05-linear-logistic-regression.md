@@ -319,4 +319,4 @@ A probability with many decimal places lets an attacker recover `z` and, in a li
 
 ---
 
-← [04 · Essential math for AI](04-essential-math.md) · **Next lesson:** 06 · Supervised learning II: decision trees, Naive Bayes and SVM (coming soon)
+← [04 · Essential math for AI](04-essential-math.md) · **Next lesson:** [06 · Supervised learning II: decision trees, Naive Bayes and SVM](06-trees-naive-bayes-svm.md) →
