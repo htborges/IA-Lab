@@ -25,7 +25,7 @@ Uma trilha didática para entender **como a IA funciona por dentro**, do zero at
 | 01 | [O que é Inteligência Artificial](01-what-is-ai.pt-BR.md) | ✅ |
 | 02 | [A história da IA](02-history-of-ai.pt-BR.md) | ✅ |
 | 03 | [Como as máquinas aprendem](03-how-machines-learn.pt-BR.md) | ✅ |
-| 04 | Matemática essencial para IA: vetores, matrizes, derivadas e probabilidade, só a intuição | 🚧 |
+| 04 | [Matemática essencial para IA](04-essential-math.pt-BR.md): vetores, matrizes, derivadas, probabilidade e normas | ✅ |
 
 ### Parte 2: Machine Learning clássico
 

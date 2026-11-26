@@ -171,4 +171,4 @@ No treino, o gradiente indica como mudar os **pesos** para diminuir o erro. Num 
 
 ---
 
-← [02 · A história da IA](02-history-of-ai.pt-BR.md) · **Próxima aula:** 04 · Matemática essencial para IA (em breve)
+← [02 · A história da IA](02-history-of-ai.pt-BR.md) · **Próxima aula:** [04 · Matemática essencial para IA](04-essential-math.pt-BR.md) →

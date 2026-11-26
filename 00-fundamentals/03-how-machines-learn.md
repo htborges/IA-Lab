@@ -171,4 +171,4 @@ In training, the gradient shows how to change the **weights** to decrease the er
 
 ---
 
-← [02 · The history of AI](02-history-of-ai.md) · **Next lesson:** 04 · Essential math for AI (coming soon)
+← [02 · The history of AI](02-history-of-ai.md) · **Next lesson:** [04 · Essential math for AI](04-essential-math.md) →

@@ -25,7 +25,7 @@ A learning track to understand **how AI works under the hood**, from zero to LLM
 | 01 | [What is Artificial Intelligence](01-what-is-ai.md) | ✅ |
 | 02 | [The history of AI](02-history-of-ai.md) | ✅ |
 | 03 | [How machines learn](03-how-machines-learn.md) | ✅ |
-| 04 | Essential math for AI: vectors, matrices, derivatives and probability, intuition only | 🚧 |
+| 04 | [Essential math for AI](04-essential-math.md): vectors, matrices, derivatives, probability and norms | ✅ |
 
 ### Part 2: Classic Machine Learning
 
