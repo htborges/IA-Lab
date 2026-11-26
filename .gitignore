@@ -26,3 +26,7 @@ datasets/raw/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Website build output
+website/docs/
+website/site/

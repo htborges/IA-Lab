@@ -1,0 +1,138 @@
+# IA-Lab website (GitHub Pages)
+# Content lives in the repo folders. The CI workflow copies it into website/docs before building.
+site_name: IA-Lab
+site_description: Hands-on AI Red Teaming lab — attacking and defending ML models and LLM applications
+site_url: https://htborges.github.io/IA-Lab/
+repo_url: https://github.com/htborges/IA-Lab
+repo_name: htborges/IA-Lab
+edit_uri: ""
+docs_dir: docs
+copyright: Content under CC BY 4.0 · Code under MIT · For educational and authorized testing only
+
+theme:
+  name: material
+  language: en
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Inter
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+    - toc.follow
+
+extra_css:
+  - assets/extra.css
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: pt
+          name: Português (BR)
+          build: true
+          site_description: Laboratório prático de AI Red Teaming — atacando e defendendo modelos de ML e aplicações com LLM
+          nav_translations:
+            Home: Início
+            Fundamentals: Fundamentos
+            Attacks: Ataques
+            Overview: Visão geral
+            Direct Prompt Injection: Prompt Injection Direta
+            LLM Output Attacks: Ataques via Saída
+            Data & Supply Chain: Dados e Supply Chain
+            Application & System: Aplicação e Sistema
+            Evasion: Evasão
+            Privacy: Privacidade
+            Defense: Defesa
+            Tools: Ferramentas
+            Methodology: Metodologia
+            About: Sobre
+            Security Policy: Política de Segurança
+
+nav:
+  - Home: index.md
+  - Fundamentals:
+      - 00-fundamentals/index.md
+      - Frameworks: 01-frameworks/index.md
+  - Attacks:
+      - Prompt Injection:
+          - 02-prompt-injection/index.md
+          - Direct Prompt Injection: 02-prompt-injection/direct-prompt-injection.md
+      - LLM Output Attacks: 03-output-attacks/index.md
+      - Data & Supply Chain: 04-data-attacks/index.md
+      - Application & System: 05-app-and-system/index.md
+      - Evasion: 06-evasion/index.md
+      - Privacy: 07-privacy/index.md
+  - Defense: 08-defense/index.md
+  - Labs:
+      - labs/index.md
+      - vuln-chatbot-rag: labs/vuln-chatbot-rag/index.md
+  - Tools: tools/index.md
+  - Methodology: methodology/index.md
+  - Cheatsheets: cheatsheets/index.md
+  - Writeups: writeups/index.md
+  - About:
+      - Disclaimer: DISCLAIMER.md
+      - Security Policy: SECURITY.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/htborges/IA-Lab

@@ -1,8 +1,22 @@
+<div align="center">
+
+<img src="website/assets/logo.svg" width="110" alt="IA-Lab logo">
+
 # IA-Lab
 
-> 🇺🇸 English · 🇧🇷 [Português](README.pt-BR.md)
+**Hands-on AI Red Teaming: attacking and defending machine learning models and LLM applications.**
 
-**Hands-on AI Red Teaming lab: attacking and defending machine learning models and LLM applications.**
+[![Site](https://img.shields.io/badge/site-htborges.github.io%2FIA--Lab-8b5cf6?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://htborges.github.io/IA-Lab/)
+[![OWASP LLM Top 10](https://img.shields.io/badge/OWASP-LLM_Top_10_2025-22d3ee?style=for-the-badge)](https://genai.owasp.org/llm-top-10/)
+[![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS-f43f5e?style=for-the-badge)](https://atlas.mitre.org)
+
+![License](https://img.shields.io/badge/code-MIT-informational?style=flat-square)
+![Content](https://img.shields.io/badge/content-CC_BY_4.0-informational?style=flat-square)
+![Language](https://img.shields.io/badge/lang-EN_%7C_PT--BR-informational?style=flat-square)
+
+🇺🇸 English · 🇧🇷 [Português](README.pt-BR.md) · 🌐 [Website](https://htborges.github.io/IA-Lab/)
+
+</div>
 
 IA-Lab is a study and practice repository on offensive AI security. Each attack comes with a reproducible lab and the matching **detection and mitigation**, because a red team finding is only useful if someone can fix it.
 

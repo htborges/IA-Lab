@@ -1,0 +1,110 @@
+/* IA-Lab theme: dark-first, violet + cyan accents */
+:root {
+  --ial-violet: #8b5cf6;
+  --ial-cyan: #22d3ee;
+  --ial-red: #f43f5e;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 230;
+  --md-default-bg-color: #0b0d14;
+  --md-default-fg-color--light: #a4abc0;
+  --md-primary-fg-color: #11141f;
+  --md-primary-bg-color: #e6e8f0;
+  --md-accent-fg-color: var(--ial-cyan);
+  --md-typeset-a-color: #a78bfa;
+  --md-code-bg-color: #141826;
+  --md-footer-bg-color: #0b0d14;
+  --md-footer-bg-color--dark: #07080d;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #4c1d95;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #0891b2;
+  --md-typeset-a-color: #6d28d9;
+}
+
+.md-header, .md-tabs { border-bottom: 1px solid rgb(139 92 246 / 0.25); }
+
+/* ---------- Home hero ---------- */
+.ial-hero {
+  text-align: center;
+  padding: 3.5rem 1rem 2.5rem;
+  margin: -1rem -0.8rem 2rem;
+  background:
+    radial-gradient(60% 80% at 50% 0%, rgb(139 92 246 / 0.25), transparent 70%),
+    radial-gradient(40% 60% at 80% 30%, rgb(34 211 238 / 0.12), transparent 70%);
+  border-bottom: 1px solid rgb(139 92 246 / 0.2);
+}
+.ial-hero img { width: 96px; height: 96px; }
+.ial-hero h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  margin: 0.6rem 0 0.4rem;
+  letter-spacing: -0.02em;
+  background: linear-gradient(90deg, var(--ial-violet), var(--ial-cyan));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.ial-hero .ial-tagline {
+  font-size: 1.15rem;
+  max-width: 40rem;
+  margin: 0 auto 1.6rem;
+  color: var(--md-default-fg-color--light);
+}
+.ial-hero .md-button { margin: 0.25rem; border-radius: 999px; }
+.ial-hero .md-button--primary {
+  background: linear-gradient(90deg, var(--ial-violet), #6366f1);
+  border: none;
+  color: #fff;
+}
+
+/* ---------- Cycle strip ---------- */
+.ial-cycle {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem;
+  margin: 0 0 2rem;
+  font-family: var(--md-code-font-family);
+  font-size: 0.75rem;
+}
+.ial-cycle span {
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid rgb(139 92 246 / 0.4);
+  background: rgb(139 92 246 / 0.08);
+}
+.ial-cycle span.ial-def { border-color: rgb(34 211 238 / 0.5); background: rgb(34 211 238 / 0.08); }
+
+/* ---------- Cards ---------- */
+.md-typeset .grid.cards > ul > li {
+  border-radius: 12px;
+  border: 1px solid rgb(139 92 246 / 0.2);
+  transition: border-color 0.2s, transform 0.2s;
+}
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: var(--ial-cyan);
+  transform: translateY(-2px);
+}
+
+/* ---------- Status badges ---------- */
+.ial-badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.ial-badge.live { background: rgb(34 197 94 / 0.15); color: #4ade80; }
+.ial-badge.beta { background: rgb(234 179 8 / 0.15); color: #facc15; }
+.ial-badge.soon { background: rgb(148 163 184 / 0.15); color: #94a3b8; }
+
+@media screen and (max-width: 44.9375em) {
+  .ial-hero h1 { font-size: 2.2rem; }
+}

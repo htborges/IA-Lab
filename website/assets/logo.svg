@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <!-- shield -->
+  <path d="M32 4 54 12v18c0 14-9.5 25-22 30C19.5 55 10 44 10 30V12L32 4Z" stroke="url(#g)" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- neural net -->
+  <g stroke="url(#g)" stroke-width="2" opacity="0.85">
+    <path d="M21 22 32 30M21 22 32 40M21 38 32 30M21 38 32 40M32 30 43 26M32 40 43 26M32 30 43 42M32 40 43 42"/>
+  </g>
+  <g fill="url(#g)">
+    <circle cx="21" cy="22" r="3.2"/><circle cx="21" cy="38" r="3.2"/>
+    <circle cx="32" cy="30" r="3.2"/><circle cx="32" cy="40" r="3.2"/>
+    <circle cx="43" cy="26" r="3.2"/>
+  </g>
+  <!-- compromised node -->
+  <circle cx="43" cy="42" r="3.8" fill="#f43f5e"/>
+</svg>
