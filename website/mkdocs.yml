@@ -79,6 +79,7 @@ plugins:
             06 · Trees, Naive Bayes and SVM: 06 · Árvores, Naive Bayes e SVM
             07 · Unsupervised learning: 07 · Aprendizado não supervisionado
             08 · Reinforcement learning: 08 · Aprendizado por reforço
+            09 · Neural networks: 09 · Redes neurais
             Attacks: Ataques
             Overview: Visão geral
             Direct Prompt Injection: Prompt Injection Direta
@@ -107,6 +108,8 @@ nav:
           - 06 · Trees, Naive Bayes and SVM: 00-fundamentals/06-trees-naive-bayes-svm.md
           - 07 · Unsupervised learning: 00-fundamentals/07-unsupervised-learning.md
           - 08 · Reinforcement learning: 00-fundamentals/08-reinforcement-learning.md
+      - Deep Learning:
+          - 09 · Neural networks: 00-fundamentals/09-neural-networks.md
       - Frameworks: 01-frameworks/index.md
   - Attacks:
       - Prompt Injection:

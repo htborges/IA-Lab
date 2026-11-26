@@ -40,7 +40,7 @@ Uma trilha didática para entender **como a IA funciona por dentro**, do zero at
 
 | # | Aula | Status |
 |---|------|--------|
-| 09 | Do perceptron às redes neurais | 🚧 |
+| 09 | [Do perceptron às redes neurais](09-neural-networks.pt-BR.md) | ✅ |
 | 10 | Redes convolucionais (CNN) e recorrentes (RNN) | 🚧 |
 
 ### Parte 4: IA Generativa

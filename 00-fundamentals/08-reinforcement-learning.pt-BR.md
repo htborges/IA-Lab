@@ -239,4 +239,4 @@ Gerando situações que mudam as **observações** e as **recompensas** que o ag
 
 ---
 
-← [07 · Aprendizado não supervisionado: K-Means, PCA e detecção de anomalias](07-unsupervised-learning.pt-BR.md) · **Próxima aula:** 09 · Do perceptron às redes neurais (em breve)
+← [07 · Aprendizado não supervisionado: K-Means, PCA e detecção de anomalias](07-unsupervised-learning.pt-BR.md) · **Próxima aula:** [09 · Do perceptron às redes neurais](09-neural-networks.pt-BR.md) →

@@ -239,4 +239,4 @@ By creating situations that change the **observations** and **rewards** the agen
 
 ---
 
-← [07 · Unsupervised learning: K-Means, PCA and anomaly detection](07-unsupervised-learning.md) · **Next lesson:** 09 · From the perceptron to neural networks (coming soon)
+← [07 · Unsupervised learning: K-Means, PCA and anomaly detection](07-unsupervised-learning.md) · **Next lesson:** [09 · From the perceptron to neural networks](09-neural-networks.md) →
