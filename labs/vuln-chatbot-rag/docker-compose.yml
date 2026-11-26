@@ -1,0 +1,38 @@
+# IA-Lab :: vuln-chatbot-rag
+# Ports are bound to 127.0.0.1 on purpose. Never expose this lab to a network.
+services:
+  ollama:
+    image: ollama/ollama:latest   # pin a version you have tested
+    volumes:
+      - ollama:/root/.ollama
+    ports:
+      - "127.0.0.1:11434:11434"
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+
+  model-pull:
+    image: ollama/ollama:latest
+    environment:
+      - OLLAMA_HOST=ollama:11434
+    entrypoint: ["/bin/sh", "-c", "ollama pull ${MODEL:-llama3.2:3b}"]
+    depends_on:
+      ollama:
+        condition: service_healthy
+
+  app:
+    build: ./app
+    environment:
+      - OLLAMA_URL=http://ollama:11434
+      - MODEL=${MODEL:-llama3.2:3b}
+      - LAB_SECRET   # optional: set it in a .env file to change the flag
+    ports:
+      - "127.0.0.1:8000:8000"
+    depends_on:
+      model-pull:
+        condition: service_completed_successfully
+
+volumes:
+  ollama:

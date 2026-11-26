@@ -28,21 +28,21 @@ Teoria → Mapeamento (OWASP / MITRE ATLAS) → Lab reproduzível → Exploraç�
 |---|------|--------|
 | 00 | [Fundamentos](00-fundamentals/): ML, DL, LLMs, RAG, agents | 🚧 |
 | 01 | [Frameworks](01-frameworks/README.pt-BR.md): OWASP LLM Top 10 × MITRE ATLAS | ✅ v1 |
-| 02 | [Prompt Injection](02-prompt-injection/): direta, indireta, jailbreaks | 🚧 |
+| 02 | [Prompt Injection](02-prompt-injection/): direta, indireta, jailbreaks | 🟡 1 técnica |
 | 03 | [Ataques via saída do LLM](03-output-attacks/): improper output handling | 🚧 |
 | 04 | [Dados e Supply Chain](04-data-attacks/): poisoning, backdoors, pickle | 🚧 |
 | 05 | [Aplicação e Sistema](05-app-and-system/): RAG, tools, agents, MCP | 🚧 |
 | 06 | [Evasão](06-evasion/): adversarial examples | 🚧 |
 | 07 | [Privacidade](07-privacy/): membership inference, extração | 🚧 |
 | 08 | [Defesa](08-defense/): guardrails, detecção, monitoramento | 🚧 |
-| — | [Labs](labs/) · [Ferramentas](tools/) · [Metodologia](methodology/) · [Cheatsheets](cheatsheets/) · [Writeups](writeups/) | 🚧 |
+| 🧪 | [Labs](labs/): [vuln-chatbot-rag](labs/vuln-chatbot-rag/README.pt-BR.md) · [Ferramentas](tools/) · [Metodologia](methodology/) · [Cheatsheets](cheatsheets/) · [Writeups](writeups/) | 🚧 |
 
 Novas técnicas usam o [template](templates/technique.pt-BR.md).
 
 ## Roadmap
 
 - [x] **Fase 1: Fundação.** Estrutura, disclaimer, template, mapeamento de frameworks
-- [ ] **Fase 2: Núcleo LLM.** Prompt injection, output attacks, primeiro lab (chatbot RAG vulnerável)
+- [ ] **Fase 2: Núcleo LLM (em andamento).** Prompt injection, output attacks, primeiro lab (chatbot RAG vulnerável)
 - [ ] **Fase 3: Sistemas.** Agents, abuso de tools, MCP, lab de agente vulnerável
 - [ ] **Fase 4: ML clássico.** Evasão, poisoning, privacidade (notebooks Jupyter)
 - [ ] **Fase 5: Defesa e metodologia.** Guardrails, template de relatório, checklist de engajamento
