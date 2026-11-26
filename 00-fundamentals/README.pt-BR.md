@@ -49,7 +49,7 @@ Uma trilha didática para entender **como a IA funciona por dentro**, do zero at
 |---|------|--------|
 | 11 | [IA generativa e LLMs](11-llms.pt-BR.md): tokens, embeddings, Transformers e atenção | ✅ |
 | 12 | [Modelos de difusão](12-diffusion-models.pt-BR.md) | ✅ |
-| 13 | Sistemas de IA: RAG, agents, tools e MCP | 🚧 |
+| 13 | [Sistemas de IA](13-ai-systems.pt-BR.md): RAG, agents, tools e MCP | ✅ |
 
 ---
 

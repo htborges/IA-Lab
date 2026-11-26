@@ -84,6 +84,7 @@ plugins:
             Generative AI: IA generativa
             11 · LLMs and Transformers: 11 · LLMs e Transformers
             12 · Diffusion models: 12 · Modelos de difusão
+            13 · RAG, agents and MCP: 13 · RAG, agents e MCP
             Attacks: Ataques
             Overview: Visão geral
             Direct Prompt Injection: Prompt Injection Direta
@@ -118,6 +119,7 @@ nav:
       - Generative AI:
           - 11 · LLMs and Transformers: 00-fundamentals/11-llms.md
           - 12 · Diffusion models: 00-fundamentals/12-diffusion-models.md
+          - 13 · RAG, agents and MCP: 00-fundamentals/13-ai-systems.md
       - Frameworks: 01-frameworks/index.md
   - Attacks:
       - Prompt Injection:

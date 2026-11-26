@@ -232,4 +232,4 @@ Simulando uma ligação de um executivo pedindo uma ação urgente, como uma tra
 
 ---
 
-← [11 · IA generativa e LLMs: tokens, embeddings, Transformers e atenção](11-llms.pt-BR.md) · **Próxima aula:** 13 · Sistemas de IA: RAG, agents, tools e MCP (em breve)
+← [11 · IA generativa e LLMs: tokens, embeddings, Transformers e atenção](11-llms.pt-BR.md) · **Próxima aula:** [13 · Sistemas de IA: RAG, agents, tools e MCP](13-ai-systems.pt-BR.md) →

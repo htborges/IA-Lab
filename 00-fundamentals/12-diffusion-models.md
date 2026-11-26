@@ -232,4 +232,4 @@ By simulating a call from an executive asking for an urgent action, such as a tr
 
 ---
 
-← [11 · Generative AI and LLMs: tokens, embeddings, Transformers and attention](11-llms.md) · **Next lesson:** 13 · AI systems: RAG, agents, tools and MCP (coming soon)
+← [11 · Generative AI and LLMs: tokens, embeddings, Transformers and attention](11-llms.md) · **Next lesson:** [13 · AI systems: RAG, agents, tools and MCP](13-ai-systems.md) →
