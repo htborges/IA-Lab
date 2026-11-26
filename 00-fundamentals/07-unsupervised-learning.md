@@ -233,6 +233,12 @@ It is gradual poisoning: the attacker raises activity slowly, always below the t
 With **mimicry**: lowering connection frequency, using common ports and protocols (such as HTTPS), talking during business hours and to destinations similar to those of legitimate hosts, until it sits close to the centroid of a normal group.
 </details>
 
+## Go deeper and practice
+
+Deep dives that build on this lesson:
+
+- **Deep dive:** [07.1 · Evaluating clusters](07-1-evaluating-clusters.md)
+
 ---
 
 ← [06 · Supervised learning II: decision trees, Naive Bayes and SVM](06-trees-naive-bayes-svm.md) · **Next lesson:** [08 · Reinforcement learning: agents, rewards, Q-Learning and SARSA](08-reinforcement-learning.md) →

@@ -82,6 +82,7 @@ plugins:
             06.1 · Trees in depth: 06.1 · Árvores a fundo
             06.2 · SVM and Naive Bayes: 06.2 · SVM e Naive Bayes
             07 · Unsupervised learning: 07 · Aprendizado não supervisionado
+            07.1 · Evaluating clusters: 07.1 · Avaliando agrupamentos
             08 · Reinforcement learning: 08 · Aprendizado por reforço
             09 · Neural networks: 09 · Redes neurais
             09.1 · Training neural networks: 09.1 · Treinando redes neurais
@@ -134,6 +135,7 @@ nav:
           - 06.1 · Trees in depth: 00-fundamentals/06-1-decision-trees-deep-dive.md
           - 06.2 · SVM and Naive Bayes: 00-fundamentals/06-2-svm-naive-bayes-deep-dive.md
           - 07 · Unsupervised learning: 00-fundamentals/07-unsupervised-learning.md
+          - 07.1 · Evaluating clusters: 00-fundamentals/07-1-evaluating-clusters.md
           - 08 · Reinforcement learning: 00-fundamentals/08-reinforcement-learning.md
       - Deep Learning:
           - 09 · Neural networks: 00-fundamentals/09-neural-networks.md

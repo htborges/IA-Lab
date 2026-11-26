@@ -52,6 +52,7 @@ Each lesson shows its level and prerequisites in the header, and ends with a **G
 | 06.1 | ↳ Deep dive: [Decision trees in depth](06-1-decision-trees-deep-dive.md) | ✅ |
 | 06.2 | ↳ Deep dive: [SVM and Naive Bayes in depth](06-2-svm-naive-bayes-deep-dive.md) | ✅ |
 | 07 | [Unsupervised learning](07-unsupervised-learning.md): K-Means, PCA and anomaly detection | ✅ |
+| 07.1 | ↳ Deep dive: [Evaluating clusters](07-1-evaluating-clusters.md) | ✅ |
 | 08 | [Reinforcement learning](08-reinforcement-learning.md): agents, rewards, Q-Learning and SARSA | ✅ |
 
 ### Part 3: Deep Learning

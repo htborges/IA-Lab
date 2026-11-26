@@ -233,6 +233,12 @@ O erro de reconstrução mede se o ponto respeita as **correlações** entre as 
 Com **mimetismo**: reduzir a frequência das conexões, usar portas e protocolos comuns (como HTTPS), conversar em horário comercial e com destinos parecidos com os de hosts legítimos, até ficar perto do centróide de um grupo normal.
 </details>
 
+## Aprofunde e pratique
+
+Aprofundamentos que partem desta aula:
+
+- **Aprofundamento:** [07.1 · Avaliando agrupamentos](07-1-evaluating-clusters.pt-BR.md)
+
 ---
 
 ← [06 · Aprendizado supervisionado II: árvores de decisão, Naive Bayes e SVM](06-trees-naive-bayes-svm.pt-BR.md) · **Próxima aula:** [08 · Aprendizado por reforço: agentes, recompensas, Q-Learning e SARSA](08-reinforcement-learning.pt-BR.md) →
