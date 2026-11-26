@@ -46,7 +46,7 @@ flowchart LR
 | [06 · Árvores, Naive Bayes e SVM](06-trees-naive-bayes-svm.pt-BR.md) | 05 | [06.1 · Árvores a fundo](06-1-decision-trees-deep-dive.pt-BR.md) | [Backdoors em modelos](../04-data-attacks/model-backdoors.pt-BR.md) |
 | [07 · Aprendizado não supervisionado](07-unsupervised-learning.pt-BR.md) | 04, 05 | — | — |
 | [08 · Aprendizado por reforço](08-reinforcement-learning.pt-BR.md) | 03, 04 | — | [Jailbreaks](../02-prompt-injection/jailbreaks.pt-BR.md) |
-| [09 · Redes neurais](09-neural-networks.pt-BR.md) | 04, 05 | — | [Backdoors](../04-data-attacks/model-backdoors.pt-BR.md), [Arquivos de modelo maliciosos](../04-data-attacks/malicious-model-files.pt-BR.md) |
+| [09 · Redes neurais](09-neural-networks.pt-BR.md) | 04, 05 | [09.1 · Treinando redes neurais](09-1-training-neural-networks.pt-BR.md) | [Backdoors](../04-data-attacks/model-backdoors.pt-BR.md), [Arquivos de modelo maliciosos](../04-data-attacks/malicious-model-files.pt-BR.md) |
 | [10 · CNN e RNN](10-cnn-rnn.pt-BR.md) | 09 | — | — |
 | [11 · LLMs e Transformers](11-llms.pt-BR.md) | 04, 09, 10 | — | [Reconhecimento](../02-prompt-injection/llm-recon.pt-BR.md), [injeção direta](../02-prompt-injection/direct-prompt-injection.pt-BR.md), [indireta](../02-prompt-injection/indirect-prompt-injection.pt-BR.md), [vazamento de system prompt](../02-prompt-injection/system-prompt-leakage.pt-BR.md), [jailbreaks](../02-prompt-injection/jailbreaks.pt-BR.md), [XSS](../03-output-attacks/xss-via-llm-output.pt-BR.md) |
 | [12 · Modelos de difusão](12-diffusion-models.pt-BR.md) | 09, 10, 11 | — | — |

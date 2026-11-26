@@ -283,8 +283,9 @@ For three reasons: the file can **execute code** when loaded (pickle-based forma
 
 ## Go deeper and practice
 
-IA-Lab techniques that build on this lesson:
+Deep dives and techniques that build on this lesson:
 
+- **Deep dive:** [09.1 · Training neural networks](09-1-training-neural-networks.md)
 - **In practice:** [Model backdoors](../04-data-attacks/model-backdoors.md)
 - **In practice:** [Malicious model files](../04-data-attacks/malicious-model-files.md)
 

@@ -55,6 +55,7 @@ Cada aula mostra no cabeçalho o nível e os pré-requisitos, e termina com o bl
 | # | Aula | Status |
 |---|------|--------|
 | 09 | [Do perceptron às redes neurais](09-neural-networks.pt-BR.md) | ✅ |
+| 09.1 | ↳ Aprofundamento: [Treinando redes neurais: perdas, otimizadores e hiperparâmetros](09-1-training-neural-networks.pt-BR.md) | ✅ |
 | 10 | [Redes convolucionais (CNN) e recorrentes (RNN)](10-cnn-rnn.pt-BR.md) | ✅ |
 
 ### Parte 4: IA Generativa

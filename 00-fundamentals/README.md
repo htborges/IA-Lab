@@ -55,6 +55,7 @@ Each lesson shows its level and prerequisites in the header, and ends with a **G
 | # | Lesson | Status |
 |---|--------|--------|
 | 09 | [From the perceptron to neural networks](09-neural-networks.md) | ✅ |
+| 09.1 | ↳ Deep dive: [Training neural networks: losses, optimizers and hyperparameters](09-1-training-neural-networks.md) | ✅ |
 | 10 | [Convolutional (CNN) and recurrent (RNN) networks](10-cnn-rnn.md) | ✅ |
 
 ### Part 4: Generative AI

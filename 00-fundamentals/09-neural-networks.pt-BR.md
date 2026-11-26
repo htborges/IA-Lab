@@ -283,8 +283,9 @@ Por três motivos: o arquivo pode **executar código** ao ser carregado (formato
 
 ## Aprofunde e pratique
 
-Técnicas do IA-Lab que se apoiam nesta aula:
+Aprofundamentos e técnicas que partem desta aula:
 
+- **Aprofundamento:** [09.1 · Treinando redes neurais](09-1-training-neural-networks.pt-BR.md)
 - **Na prática:** [Backdoors em modelos](../04-data-attacks/model-backdoors.pt-BR.md)
 - **Na prática:** [Arquivos de modelo maliciosos](../04-data-attacks/malicious-model-files.pt-BR.md)
 
