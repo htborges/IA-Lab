@@ -265,6 +265,7 @@ A saída de uma árvore muda em degraus, então o gradiente é zero em quase tod
 Aprofundamentos e técnicas que partem desta aula:
 
 - **Aprofundamento:** [06.1 · Árvores de decisão a fundo](06-1-decision-trees-deep-dive.pt-BR.md)
+- **Aprofundamento:** [06.2 · SVM e Naive Bayes a fundo](06-2-svm-naive-bayes-deep-dive.pt-BR.md)
 - **Na prática:** [Backdoors em modelos](../04-data-attacks/model-backdoors.pt-BR.md)
 
 ---

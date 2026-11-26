@@ -202,4 +202,4 @@ Because a single well-placed example is enough to break the tie in favor of the 
 
 ---
 
-← [06 · Trees, Naive Bayes and SVM](06-trees-naive-bayes-svm.md) · **Next lesson in the track:** [07 · Unsupervised learning](07-unsupervised-learning.md) →
+← [06 · Trees, Naive Bayes and SVM](06-trees-naive-bayes-svm.md) · **Next:** [06.2 · SVM and Naive Bayes in depth](06-2-svm-naive-bayes-deep-dive.md) →

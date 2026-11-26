@@ -202,4 +202,4 @@ Porque basta um único exemplo bem posicionado para desempatar a favor do limiar
 
 ---
 
-← [06 · Árvores, Naive Bayes e SVM](06-trees-naive-bayes-svm.pt-BR.md) · **Próxima aula da trilha:** [07 · Aprendizado não supervisionado](07-unsupervised-learning.pt-BR.md) →
+← [06 · Árvores, Naive Bayes e SVM](06-trees-naive-bayes-svm.pt-BR.md) · **Próximo:** [06.2 · SVM e Naive Bayes a fundo](06-2-svm-naive-bayes-deep-dive.pt-BR.md) →

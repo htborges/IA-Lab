@@ -50,6 +50,7 @@ Cada aula mostra no cabeçalho o nível e os pré-requisitos, e termina com o bl
 | 05.1 | ↳ Aprofundamento: [Mínimos quadrados e pressupostos da regressão](05-1-least-squares.pt-BR.md) | ✅ |
 | 06 | [Aprendizado supervisionado II](06-trees-naive-bayes-svm.pt-BR.md): árvores de decisão, Naive Bayes e SVM | ✅ |
 | 06.1 | ↳ Aprofundamento: [Árvores de decisão a fundo](06-1-decision-trees-deep-dive.pt-BR.md) | ✅ |
+| 06.2 | ↳ Aprofundamento: [SVM e Naive Bayes a fundo](06-2-svm-naive-bayes-deep-dive.pt-BR.md) | ✅ |
 | 07 | [Aprendizado não supervisionado](07-unsupervised-learning.pt-BR.md): K-Means, PCA e detecção de anomalias | ✅ |
 | 08 | [Aprendizado por reforço](08-reinforcement-learning.pt-BR.md): agentes, recompensas, Q-Learning e SARSA | ✅ |
 

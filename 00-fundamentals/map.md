@@ -43,7 +43,7 @@ flowchart LR
 | [03 · How machines learn](03-how-machines-learn.md) | 01 | [03.1 · Evaluation and regularization](03-1-evaluation-regularization.md) | [Data poisoning](../04-data-attacks/data-poisoning.md) |
 | [04 · Essential math](04-essential-math.md) | 03 | [04.1 · Logs and entropy](04-1-logs-and-entropy.md), [04.2 · Linear algebra](04-2-linear-algebra.md) | — |
 | [05 · Linear and logistic regression](05-linear-logistic-regression.md) | 03, 04 | [05.1 · Least squares](05-1-least-squares.md) | [Data poisoning](../04-data-attacks/data-poisoning.md) |
-| [06 · Trees, Naive Bayes and SVM](06-trees-naive-bayes-svm.md) | 05 | [06.1 · Trees in depth](06-1-decision-trees-deep-dive.md) | [Model backdoors](../04-data-attacks/model-backdoors.md) |
+| [06 · Trees, Naive Bayes and SVM](06-trees-naive-bayes-svm.md) | 05 | [06.1 · Trees in depth](06-1-decision-trees-deep-dive.md), [06.2 · SVM and Naive Bayes](06-2-svm-naive-bayes-deep-dive.md) | [Model backdoors](../04-data-attacks/model-backdoors.md) |
 | [07 · Unsupervised learning](07-unsupervised-learning.md) | 04, 05 | — | — |
 | [08 · Reinforcement learning](08-reinforcement-learning.md) | 03, 04 | — | [Jailbreaks](../02-prompt-injection/jailbreaks.md) |
 | [09 · Neural networks](09-neural-networks.md) | 04, 05 | [09.1 · Training neural networks](09-1-training-neural-networks.md) | [Backdoors](../04-data-attacks/model-backdoors.md), [Malicious model files](../04-data-attacks/malicious-model-files.md) |

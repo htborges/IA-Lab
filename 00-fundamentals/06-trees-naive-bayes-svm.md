@@ -265,6 +265,7 @@ A tree's output changes in steps, so the gradient is zero almost everywhere and 
 Deep dives and techniques that build on this lesson:
 
 - **Deep dive:** [06.1 · Decision trees in depth](06-1-decision-trees-deep-dive.md)
+- **Deep dive:** [06.2 · SVM and Naive Bayes in depth](06-2-svm-naive-bayes-deep-dive.md)
 - **In practice:** [Model backdoors](../04-data-attacks/model-backdoors.md)
 
 ---
