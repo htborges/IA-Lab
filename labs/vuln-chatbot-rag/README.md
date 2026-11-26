@@ -8,7 +8,7 @@
 
 | | |
 |-|-|
-| **Techniques** | [Direct prompt injection](../../02-prompt-injection/direct-prompt-injection.md), system prompt leakage (next: indirect injection, output handling) |
+| **Techniques** | [Direct prompt injection](../../02-prompt-injection/direct-prompt-injection.md), [indirect prompt injection](../../02-prompt-injection/indirect-prompt-injection.md), [system prompt leakage](../../02-prompt-injection/system-prompt-leakage.md), [jailbreaks](../../02-prompt-injection/jailbreaks.md) (next: output handling) |
 | **OWASP** | LLM01, LLM07, LLM05, LLM08 |
 | **Stack** | FastAPI · Ollama (`llama3.2:3b` by default) · keyword-based RAG |
 | **Status** | 🧪 Not yet tested end-to-end. Please open an issue if something breaks |

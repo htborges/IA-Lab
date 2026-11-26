@@ -30,7 +30,7 @@ flowchart LR
 
 Roles like `system` and `user` help, but they are only *training conventions*, not a security boundary. The model follows what seems most likely to be the right continuation. A persuasive, recent or more specific instruction often wins.
 
-**Direct** injection means the attacker types the payload into the input themselves. **Indirect** injection hides the payload in content the model reads later (web pages, documents, emails). That is covered in its own page.
+**Direct** injection means the attacker types the payload into the input themselves. **Indirect** injection hides the payload in content the model reads later (web pages, documents, emails). That is covered in [its own page](indirect-prompt-injection.md).
 
 ### What is at stake
 

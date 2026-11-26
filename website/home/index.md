@@ -49,7 +49,7 @@ Every attack in IA-Lab follows the same cycle and **always ends with the defense
 
 <div class="grid cards" markdown>
 
--   :material-needle:{ .lg } **Prompt Injection** <span class="ial-badge live">1 technique</span>
+-   :material-needle:{ .lg } **Prompt Injection** <span class="ial-badge live">4 techniques</span>
 
     ---
 

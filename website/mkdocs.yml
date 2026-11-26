@@ -88,6 +88,8 @@ plugins:
             Attacks: Ataques
             Overview: Visão geral
             Direct Prompt Injection: Prompt Injection Direta
+            Indirect Prompt Injection: Prompt Injection Indireta
+            System Prompt Leakage: Vazamento de System Prompt
             LLM Output Attacks: Ataques via Saída
             Data & Supply Chain: Dados e Supply Chain
             Application & System: Aplicação e Sistema
@@ -125,6 +127,9 @@ nav:
       - Prompt Injection:
           - 02-prompt-injection/index.md
           - Direct Prompt Injection: 02-prompt-injection/direct-prompt-injection.md
+          - Indirect Prompt Injection: 02-prompt-injection/indirect-prompt-injection.md
+          - System Prompt Leakage: 02-prompt-injection/system-prompt-leakage.md
+          - Jailbreaks: 02-prompt-injection/jailbreaks.md
       - LLM Output Attacks: 03-output-attacks/index.md
       - Data & Supply Chain: 04-data-attacks/index.md
       - Application & System: 05-app-and-system/index.md

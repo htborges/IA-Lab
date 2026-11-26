@@ -30,7 +30,7 @@ flowchart LR
 
 Papéis como `system` e `user` ajudam, mas são só *convenções de treino*, não uma barreira de segurança. O modelo segue o que parece a continuação mais provável. Uma instrução persuasiva, recente ou mais específica costuma vencer.
 
-Na injection **direta**, o próprio atacante digita o payload na entrada. Na **indireta**, o payload fica escondido em conteúdo que o modelo lê depois (páginas web, documentos, e-mails). Ela tem uma página própria.
+Na injection **direta**, o próprio atacante digita o payload na entrada. Na **indireta**, o payload fica escondido em conteúdo que o modelo lê depois (páginas web, documentos, e-mails). Ela tem uma [página própria](indirect-prompt-injection.pt-BR.md).
 
 ### O que está em jogo
 
