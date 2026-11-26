@@ -65,7 +65,7 @@ Every attack in IA-Lab follows the same cycle and **always ends with the defense
 
     [:octicons-arrow-right-24: Explore](03-output-attacks/index.md)
 
--   :material-biohazard:{ .lg } **Data & Supply Chain** <span class="ial-badge soon">soon</span>
+-   :material-biohazard:{ .lg } **Data & Supply Chain** <span class="ial-badge live">3 techniques</span>
 
     ---
 

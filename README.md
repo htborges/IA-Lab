@@ -44,7 +44,7 @@ Theory → Mapping (OWASP / MITRE ATLAS) → Reproducible lab → Exploitation �
 | 01 | [Frameworks](01-frameworks/): OWASP LLM Top 10 × MITRE ATLAS | ✅ v1 |
 | 02 | [Prompt Injection](02-prompt-injection/): direct, indirect, jailbreaks | 🟡 4 techniques |
 | 03 | [LLM Output Attacks](03-output-attacks/): XSS, SQLi, command injection, SSRF via model output | 🟡 2 techniques |
-| 04 | [Data & Supply Chain](04-data-attacks/): poisoning, backdoors, pickle | 🚧 |
+| 04 | [Data & Supply Chain](04-data-attacks/): poisoning, backdoors, malicious model files | 🟡 3 techniques |
 | 05 | [Application & System](05-app-and-system/): RAG, tools, agents, MCP | 🚧 |
 | 06 | [Evasion](06-evasion/): adversarial examples | 🚧 |
 | 07 | [Privacy](07-privacy/): membership inference, extraction | 🚧 |

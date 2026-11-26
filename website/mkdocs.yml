@@ -94,6 +94,8 @@ plugins:
             XSS via LLM Output: XSS via saída do LLM
             Downstream Injection: Injeção em sistemas downstream
             Data & Supply Chain: Dados e Supply Chain
+            Model Backdoors: Backdoors em modelos
+            Malicious Model Files: Arquivos de modelo maliciosos
             Application & System: Aplicação e Sistema
             Evasion: Evasão
             Privacy: Privacidade
@@ -136,7 +138,11 @@ nav:
           - 03-output-attacks/index.md
           - XSS via LLM Output: 03-output-attacks/xss-via-llm-output.md
           - Downstream Injection: 03-output-attacks/downstream-injection.md
-      - Data & Supply Chain: 04-data-attacks/index.md
+      - Data & Supply Chain:
+          - 04-data-attacks/index.md
+          - Data Poisoning: 04-data-attacks/data-poisoning.md
+          - Model Backdoors: 04-data-attacks/model-backdoors.md
+          - Malicious Model Files: 04-data-attacks/malicious-model-files.md
       - Application & System: 05-app-and-system/index.md
       - Evasion: 06-evasion/index.md
       - Privacy: 07-privacy/index.md

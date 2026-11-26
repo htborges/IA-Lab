@@ -65,7 +65,7 @@ Todo ataque no IA-Lab segue o mesmo ciclo e **sempre termina na defesa**. Um ach
 
     [:octicons-arrow-right-24: Explorar](03-output-attacks/index.md)
 
--   :material-biohazard:{ .lg } **Dados e Supply Chain** <span class="ial-badge soon">em breve</span>
+-   :material-biohazard:{ .lg } **Dados e Supply Chain** <span class="ial-badge live">3 técnicas</span>
 
     ---
 
