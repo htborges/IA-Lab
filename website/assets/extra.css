@@ -50,6 +50,10 @@
 }
 .md-typeset p,
 .md-typeset li { color: var(--md-typeset-color); }
+/* Coloured cards set their own text colour */
+.md-typeset .ial-hero p,
+.md-typeset .ial-mini > p,
+.md-typeset .ial-promo > p { color: inherit; }
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 { color: var(--md-default-fg-color); letter-spacing: -0.01em; }
