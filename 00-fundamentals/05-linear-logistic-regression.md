@@ -321,8 +321,9 @@ A probability with many decimal places lets an attacker recover `z` and, in a li
 
 ## Go deeper and practice
 
-IA-Lab techniques that build on this lesson:
+Deep dives and techniques that build on this lesson:
 
+- **Deep dive:** [05.1 · Least squares and regression assumptions](05-1-least-squares.md)
 - **In practice:** [Data poisoning](../04-data-attacks/data-poisoning.md)
 
 ---

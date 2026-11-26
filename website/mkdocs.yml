@@ -77,6 +77,7 @@ plugins:
             04.2 · Linear algebra: 04.2 · Álgebra linear
             Classic ML: ML clássico
             05 · Linear and logistic regression: 05 · Regressão linear e logística
+            05.1 · Least squares: 05.1 · Mínimos quadrados
             06 · Trees, Naive Bayes and SVM: 06 · Árvores, Naive Bayes e SVM
             06.1 · Trees in depth: 06.1 · Árvores a fundo
             07 · Unsupervised learning: 07 · Aprendizado não supervisionado
@@ -127,6 +128,7 @@ nav:
           - 04.2 · Linear algebra: 00-fundamentals/04-2-linear-algebra.md
       - Classic ML:
           - 05 · Linear and logistic regression: 00-fundamentals/05-linear-logistic-regression.md
+          - 05.1 · Least squares: 00-fundamentals/05-1-least-squares.md
           - 06 · Trees, Naive Bayes and SVM: 00-fundamentals/06-trees-naive-bayes-svm.md
           - 06.1 · Trees in depth: 00-fundamentals/06-1-decision-trees-deep-dive.md
           - 07 · Unsupervised learning: 00-fundamentals/07-unsupervised-learning.md

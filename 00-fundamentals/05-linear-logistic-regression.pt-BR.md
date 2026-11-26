@@ -321,8 +321,9 @@ A probabilidade com muitas casas decimais permite recuperar `z` e, num modelo li
 
 ## Aprofunde e pratique
 
-Técnicas do IA-Lab que se apoiam nesta aula:
+Aprofundamentos e técnicas que partem desta aula:
 
+- **Aprofundamento:** [05.1 · Mínimos quadrados e pressupostos da regressão](05-1-least-squares.pt-BR.md)
 - **Na prática:** [Data poisoning](../04-data-attacks/data-poisoning.pt-BR.md)
 
 ---

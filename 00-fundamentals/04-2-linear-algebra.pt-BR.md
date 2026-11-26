@@ -80,7 +80,7 @@ w = (Xᵀ X)⁻¹ Xᵀ y = | 46  |   →   b = 46, w = 4,2
                     | 4,2 |
 ```
 
-É exatamente a reta `4,2 × área + 46` que a aula 05 encontrou. O aprofundamento 05.1 vai derivar essa equação passo a passo.
+É exatamente a reta `4,2 × área + 46` que a aula 05 encontrou. O [05.1 · Mínimos quadrados](05-1-least-squares.pt-BR.md) deriva essa reta passo a passo.
 
 ### Quando Xᵀ X é singular: a regularização salva
 

@@ -47,6 +47,7 @@ Each lesson shows its level and prerequisites in the header, and ends with a **G
 | # | Lesson | Status |
 |---|--------|--------|
 | 05 | [Supervised learning I](05-linear-logistic-regression.md): linear and logistic regression | ✅ |
+| 05.1 | ↳ Deep dive: [Least squares and regression assumptions](05-1-least-squares.md) | ✅ |
 | 06 | [Supervised learning II](06-trees-naive-bayes-svm.md): decision trees, Naive Bayes and SVM | ✅ |
 | 06.1 | ↳ Deep dive: [Decision trees in depth](06-1-decision-trees-deep-dive.md) | ✅ |
 | 07 | [Unsupervised learning](07-unsupervised-learning.md): K-Means, PCA and anomaly detection | ✅ |

@@ -80,7 +80,7 @@ w = (Xᵀ X)⁻¹ Xᵀ y = | 46  |   →   b = 46, w = 4.2
                     | 4.2 |
 ```
 
-It is exactly the `4.2 × area + 46` line that lesson 05 found. The 05.1 deep dive will derive this equation step by step.
+It is exactly the `4.2 × area + 46` line that lesson 05 found. [05.1 · Least squares](05-1-least-squares.md) derives this line step by step.
 
 ### When Xᵀ X is singular: regularization to the rescue
 
