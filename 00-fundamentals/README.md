@@ -47,7 +47,7 @@ A learning track to understand **how AI works under the hood**, from zero to LLM
 
 | # | Lesson | Status |
 |---|--------|--------|
-| 11 | Generative AI and LLMs: tokens, embeddings, Transformers and attention | 🚧 |
+| 11 | [Generative AI and LLMs](11-llms.md): tokens, embeddings, Transformers and attention | ✅ |
 | 12 | Diffusion models | 🚧 |
 | 13 | AI systems: RAG, agents, tools and MCP | 🚧 |
 

@@ -238,4 +238,4 @@ Porque o patch funciona no **mundo físico**: pode ser impresso, colado num obje
 
 ---
 
-← [09 · Do perceptron às redes neurais](09-neural-networks.pt-BR.md) · **Próxima aula:** 11 · IA generativa e LLMs: tokens, embeddings, Transformers e atenção (em breve)
+← [09 · Do perceptron às redes neurais](09-neural-networks.pt-BR.md) · **Próxima aula:** [11 · IA generativa e LLMs: tokens, embeddings, Transformers e atenção](11-llms.pt-BR.md) →

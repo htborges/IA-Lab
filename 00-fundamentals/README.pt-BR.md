@@ -47,7 +47,7 @@ Uma trilha didática para entender **como a IA funciona por dentro**, do zero at
 
 | # | Aula | Status |
 |---|------|--------|
-| 11 | IA generativa e LLMs: tokens, embeddings, Transformers e atenção | 🚧 |
+| 11 | [IA generativa e LLMs](11-llms.pt-BR.md): tokens, embeddings, Transformers e atenção | ✅ |
 | 12 | Modelos de difusão | 🚧 |
 | 13 | Sistemas de IA: RAG, agents, tools e MCP | 🚧 |
 

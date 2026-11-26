@@ -81,6 +81,8 @@ plugins:
             08 · Reinforcement learning: 08 · Aprendizado por reforço
             09 · Neural networks: 09 · Redes neurais
             10 · CNN and RNN: 10 · CNN e RNN
+            Generative AI: IA generativa
+            11 · LLMs and Transformers: 11 · LLMs e Transformers
             Attacks: Ataques
             Overview: Visão geral
             Direct Prompt Injection: Prompt Injection Direta
@@ -112,6 +114,8 @@ nav:
       - Deep Learning:
           - 09 · Neural networks: 00-fundamentals/09-neural-networks.md
           - 10 · CNN and RNN: 00-fundamentals/10-cnn-rnn.md
+      - Generative AI:
+          - 11 · LLMs and Transformers: 00-fundamentals/11-llms.md
       - Frameworks: 01-frameworks/index.md
   - Attacks:
       - Prompt Injection:

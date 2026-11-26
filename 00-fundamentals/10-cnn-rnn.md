@@ -238,4 +238,4 @@ Because the patch works in the **physical world**: it can be printed, stuck on a
 
 ---
 
-← [09 · From the perceptron to neural networks](09-neural-networks.md) · **Next lesson:** 11 · Generative AI and LLMs: tokens, embeddings, Transformers and attention (coming soon)
+← [09 · From the perceptron to neural networks](09-neural-networks.md) · **Next lesson:** [11 · Generative AI and LLMs: tokens, embeddings, Transformers and attention](11-llms.md) →
