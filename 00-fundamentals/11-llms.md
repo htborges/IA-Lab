@@ -249,4 +249,4 @@ Because the email content, written by a third party, enters the same token seque
 
 ---
 
-← [10 · Convolutional (CNN) and recurrent (RNN) networks](10-cnn-rnn.md) · **Next lesson:** 12 · Diffusion models (coming soon)
+← [10 · Convolutional (CNN) and recurrent (RNN) networks](10-cnn-rnn.md) · **Next lesson:** [12 · Diffusion models](12-diffusion-models.md) →

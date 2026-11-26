@@ -249,4 +249,4 @@ Porque o conteúdo do e-mail, escrito por um terceiro, entra na mesma sequência
 
 ---
 
-← [10 · Redes convolucionais (CNN) e recorrentes (RNN)](10-cnn-rnn.pt-BR.md) · **Próxima aula:** 12 · Modelos de difusão (em breve)
+← [10 · Redes convolucionais (CNN) e recorrentes (RNN)](10-cnn-rnn.pt-BR.md) · **Próxima aula:** [12 · Modelos de difusão](12-diffusion-models.pt-BR.md) →
