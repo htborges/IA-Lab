@@ -100,12 +100,7 @@ At each step, the new state combines the current input `x_t` with the previous s
 
 ```mermaid
 flowchart LR
-    X1[x₁] --> H1((h₁))
-    X2[x₂] --> H2((h₂))
-    X3[x₃] --> H3((h₃))
-    X4[x₄] --> H4((h₄))
-    H1 -- memory --> H2 -- memory --> H3 -- memory --> H4
-    H4 --> Y[Output]
+    H0((h₀<br/>empty)) -- reads x₁ --> H1((h₁)) -- reads x₂ --> H2((h₂)) -- reads x₃ --> H3((h₃)) -- reads x₄ --> H4((h₄)) --> Y[Output]
 ```
 
 ### An example with numbers: memory fades
