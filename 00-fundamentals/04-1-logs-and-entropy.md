@@ -100,7 +100,7 @@ H(p) = − Σ p(x) × log₂ p(x)
 
 ### Entropy in decision trees
 
-In [lesson 06](06-trees-naive-bayes-svm.md), the tree picked the question that most reduced Gini impurity. Entropy is the classic alternative, and the reduction in entropy has a name: **information gain**. Both criteria usually pick similar questions; the trees deep dive works through the full computation.
+In [lesson 06](06-trees-naive-bayes-svm.md), the tree picked the question that most reduced Gini impurity. Entropy is the classic alternative, and the reduction in entropy has a name: **information gain**. Both criteria usually pick similar questions; [06.1 · Decision trees in depth](06-1-decision-trees-deep-dive.md) works through the full computation.
 
 ## Cross-entropy: the real name of log loss
 

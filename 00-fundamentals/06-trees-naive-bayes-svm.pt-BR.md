@@ -262,8 +262,9 @@ A saída de uma árvore muda em degraus, então o gradiente é zero em quase tod
 
 ## Aprofunde e pratique
 
-Técnicas do IA-Lab que se apoiam nesta aula:
+Aprofundamentos e técnicas que partem desta aula:
 
+- **Aprofundamento:** [06.1 · Árvores de decisão a fundo](06-1-decision-trees-deep-dive.pt-BR.md)
 - **Na prática:** [Backdoors em modelos](../04-data-attacks/model-backdoors.pt-BR.md)
 
 ---

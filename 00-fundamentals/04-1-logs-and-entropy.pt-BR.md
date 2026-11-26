@@ -100,7 +100,7 @@ H(p) = − Σ p(x) × log₂ p(x)
 
 ### Entropia nas árvores de decisão
 
-Na [aula 06](06-trees-naive-bayes-svm.pt-BR.md), a árvore escolhia a pergunta que mais reduzia a impureza de Gini. A entropia é a alternativa clássica, e a redução de entropia tem nome: **ganho de informação**. Os dois critérios costumam escolher perguntas parecidas; o aprofundamento das árvores faz a conta completa.
+Na [aula 06](06-trees-naive-bayes-svm.pt-BR.md), a árvore escolhia a pergunta que mais reduzia a impureza de Gini. A entropia é a alternativa clássica, e a redução de entropia tem nome: **ganho de informação**. Os dois critérios costumam escolher perguntas parecidas; o [06.1 · Árvores de decisão a fundo](06-1-decision-trees-deep-dive.pt-BR.md) faz a conta completa.
 
 ## Entropia cruzada: o nome verdadeiro da log loss
 
