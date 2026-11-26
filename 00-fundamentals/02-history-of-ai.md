@@ -12,18 +12,16 @@
 
 Because today's AI is the sum of decades-old ideas that only worked once three ingredients came together: **algorithms**, **data** and **compute**. Knowing this path helps you separate real progress from hype, and shows that many "new" AI attacks have old roots.
 
-```mermaid
-timeline
-    title Major eras of AI
-    1943-1956 : Foundations
-    1956-1974 : Early optimism
-    1974-1980 : 1st winter
-    1980-1987 : Expert systems
-    1987-1993 : 2nd winter
-    1993-2011 : Statistical ML
-    2012-2016 : Deep learning revolution
-    2017-today : Transformers and generative AI
-```
+| Era | Period | In one sentence |
+|-----|--------|-----------------|
+| Foundations | 1943–1956 | The artificial neuron, the Turing Test and the name "AI" |
+| Early optimism | 1956–1974 | Perceptron, ELIZA and promises far too big |
+| 1st winter | 1974–1980 | Broken promises, funding cut |
+| Expert systems | 1980–1987 | Thousands of hand-written rules |
+| 2nd winter | 1987–1993 | Expensive, brittle systems; the market collapses |
+| Statistical ML | 1993–2011 | Learning from data: SVMs, trees, LeNet |
+| Deep learning revolution | 2012–2016 | GPUs + data: AlexNet, GANs, AlphaGo |
+| Transformers and generative AI | 2017–today | Transformer, GPT, ChatGPT, agents |
 
 ## 1. Foundations (1943–1956)
 

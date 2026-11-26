@@ -12,18 +12,16 @@
 
 Porque a IA atual é a soma de ideias com décadas de idade que só funcionaram quando três ingredientes se juntaram: **algoritmos**, **dados** e **poder computacional**. Entender essa trajetória ajuda a separar o que é avanço real do que é hype, e mostra que vários "ataques novos" a IA têm raízes antigas.
 
-```mermaid
-timeline
-    title Grandes eras da IA
-    1943-1956 : Fundações
-    1956-1974 : Otimismo inicial
-    1974-1980 : 1º inverno
-    1980-1987 : Sistemas especialistas
-    1987-1993 : 2º inverno
-    1993-2011 : ML estatístico
-    2012-2016 : Revolução do deep learning
-    2017-hoje : Transformers e IA generativa
-```
+| Era | Período | Em uma frase |
+|-----|---------|--------------|
+| Fundações | 1943–1956 | O neurônio artificial, o Teste de Turing e o nome "IA" |
+| Otimismo inicial | 1956–1974 | Perceptron, ELIZA e promessas grandes demais |
+| 1º inverno | 1974–1980 | Promessas não cumpridas, financiamento cortado |
+| Sistemas especialistas | 1980–1987 | Milhares de regras escritas à mão |
+| 2º inverno | 1987–1993 | Sistemas caros e frágeis, mercado quebra |
+| ML estatístico | 1993–2011 | Aprender com dados: SVM, árvores, LeNet |
+| Revolução do deep learning | 2012–2016 | GPUs + dados: AlexNet, GANs, AlphaGo |
+| Transformers e IA generativa | 2017–hoje | Transformer, GPT, ChatGPT, agents |
 
 ## 1. Fundações (1943–1956)
 
