@@ -253,6 +253,8 @@ Porque o conteúdo do e-mail, escrito por um terceiro, entra na mesma sequência
 
 Técnicas do IA-Lab que se apoiam nesta aula:
 
+- **Na prática:** [Reconhecimento de aplicações LLM](../02-prompt-injection/llm-recon.pt-BR.md)
+- **Na defesa:** [Defesa contra prompt injection em camadas](../08-defense/prompt-injection-defense.pt-BR.md)
 - **Na prática:** [Prompt injection direta](../02-prompt-injection/direct-prompt-injection.pt-BR.md)
 - **Na prática:** [Prompt injection indireta](../02-prompt-injection/indirect-prompt-injection.pt-BR.md)
 - **Na prática:** [Jailbreaks](../02-prompt-injection/jailbreaks.pt-BR.md)

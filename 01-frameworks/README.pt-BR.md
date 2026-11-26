@@ -1,8 +1,8 @@
-# Frameworks: OWASP LLM Top 10 × MITRE ATLAS
+# Frameworks: OWASP LLM Top 10, MITRE ATLAS e Google SAIF
 
 > 🇧🇷 Português · 🇺🇸 [English](README.md)
 
-Os dois frameworks de referência para AI red teaming:
+Os dois frameworks técnicos de referência para AI red teaming (o terceiro, o SAIF, aparece no fim da página):
 
 - **[OWASP Top 10 for LLM Applications (2025)](https://genai.owasp.org/llm-top-10/)** lista *o que* dá errado em aplicações com LLM. É orientado a risco e serve para findings e relatórios.
 - **[MITRE ATLAS](https://atlas.mitre.org)** descreve *como* adversários atacam sistemas de IA. É uma matriz de táticas e técnicas no estilo ATT&CK, útil para planejamento e threat modeling.
@@ -32,3 +32,28 @@ Referências complementares: [NIST AI 100-2 (taxonomia de Adversarial ML)](https
 | Membership inference, model inversion, extração de modelo | AML.T0024 (.000, .001, .002) | [07](../07-privacy/) |
 
 > ℹ️ O ATLAS é atualizado com frequência, e alguns nomes de técnicas trocaram "ML" por "AI" em 2025. Sempre confirme os IDs em [atlas.mitre.org](https://atlas.mitre.org) antes de citá-los em relatório. Última revisão: 2026-11.
+
+## Google SAIF: a visão do programa de segurança
+
+O OWASP lista vulnerabilidades e o ATLAS descreve o comportamento do adversário. O **[Secure AI Framework (SAIF)](https://saif.google)**, publicado pelo Google em 2023, olha um nível acima: **como uma organização estrutura a segurança de IA** como programa. Ele parte de seis elementos centrais:
+
+| Elemento do SAIF | Ideia | Onde aparece no IA-Lab |
+|------------------|-------|------------------------|
+| **1. Estender fundações de segurança ao ecossistema de IA** | Aplicar à IA o que já existe: controle de acesso, proteção de dados, segurança da supply chain | [Dados e supply chain](../04-data-attacks/README.pt-BR.md) |
+| **2. Estender detecção e resposta** | Monitorar entradas e saídas dos modelos e incluir a IA nos processos de resposta a incidentes | Seções de **Detecção** de cada técnica |
+| **3. Automatizar defesas** | Usar automação (inclusive IA) para acompanhar a escala e a velocidade dos ataques | [Ferramentas](../tools/README.pt-BR.md) |
+| **4. Harmonizar controles de plataforma** | Padronizar controles entre os produtos e plataformas de IA da organização, evitando cada time com sua própria proteção | [Defesa](../08-defense/README.pt-BR.md) |
+| **5. Adaptar controles com ciclos de feedback** | Testar continuamente (red teaming), aprender com incidentes e ajustar mitigações | O ciclo de cada técnica: exploração → detecção → mitigação |
+| **6. Contextualizar riscos de IA nos processos de negócio** | Avaliar o risco de cada sistema de IA no contexto do negócio, com governança e responsáveis claros | [Metodologia](../methodology/README.md) (em construção) |
+
+Depois da publicação original, o SAIF ganhou um **mapa de riscos** que liga componentes de um sistema de IA (dados, modelo, aplicação, infraestrutura) a riscos e controles. É uma boa referência para threat modeling junto com o ATLAS.
+
+### Como usar os três juntos
+
+| Pergunta | Framework |
+|----------|-----------|
+| "Que vulnerabilidade encontramos e qual a gravidade?" | OWASP Top 10 for LLM Applications |
+| "Como o adversário chegou lá, passo a passo?" | MITRE ATLAS |
+| "A organização tem o programa certo para prevenir, detectar e responder?" | Google SAIF |
+
+Num relatório de AI red teaming, os achados técnicos costumam ser classificados pelo **OWASP**, a cadeia de ataque é descrita com o **ATLAS** e as recomendações estruturais conversam com o **SAIF**.

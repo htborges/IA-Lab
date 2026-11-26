@@ -253,6 +253,8 @@ Because the email content, written by a third party, enters the same token seque
 
 IA-Lab techniques that build on this lesson:
 
+- **In practice:** [LLM application reconnaissance](../02-prompt-injection/llm-recon.md)
+- **In defense:** [Layered prompt injection defense](../08-defense/prompt-injection-defense.md)
 - **In practice:** [Direct prompt injection](../02-prompt-injection/direct-prompt-injection.md)
 - **In practice:** [Indirect prompt injection](../02-prompt-injection/indirect-prompt-injection.md)
 - **In practice:** [Jailbreaks](../02-prompt-injection/jailbreaks.md)

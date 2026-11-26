@@ -103,7 +103,7 @@ hide:
 :material-needle:{ .ial-module__icon }
 <div class="ial-module__body" markdown>
 [Prompt Injection](02-prompt-injection/index.md)
-<span>Direct and indirect injection, system prompt leakage and jailbreaks · 4 techniques</span>
+<span>Recon, direct and indirect injection, system prompt leakage and jailbreaks · 5 techniques</span>
 </div>
 </div>
 
@@ -137,6 +137,12 @@ hide:
 <p class="ial-panel__eyebrow">Next</p>
 
 <div class="ial-session" markdown>
+[Track deep dives](00-fundamentals/map.md){ .ial-stretch }
+<span class="ial-session__desc">Entropy, trees in depth, training neural networks and tokenization</span>
+<span class="ial-tag ial-tag--defense">Track</span>
+</div>
+
+<div class="ial-session" markdown>
 [Application & System](05-app-and-system/index.md){ .ial-stretch }
 <span class="ial-session__desc">RAG poisoning, tool abuse, excessive agency and MCP</span>
 <span class="ial-tag ial-tag--section">Section</span>
@@ -160,12 +166,6 @@ hide:
 [Privacy](07-privacy/index.md){ .ial-stretch }
 <span class="ial-session__desc">Membership inference, inversion and model extraction</span>
 <span class="ial-tag ial-tag--section">Section</span>
-</div>
-
-<div class="ial-session" markdown>
-[Defense](08-defense/index.md){ .ial-stretch }
-<span class="ial-session__desc">Guardrails, detection and secure architecture</span>
-<span class="ial-tag ial-tag--defense">Defense</span>
 </div>
 
 </div>

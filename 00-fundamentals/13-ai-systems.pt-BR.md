@@ -266,6 +266,8 @@ Porque o system prompt e os documentos estão no mesmo canal de tokens, e a regr
 
 Técnicas do IA-Lab que se apoiam nesta aula:
 
+- **Na prática:** [Reconhecimento de aplicações LLM](../02-prompt-injection/llm-recon.pt-BR.md)
+- **Na defesa:** [Defesa contra prompt injection em camadas](../08-defense/prompt-injection-defense.pt-BR.md)
 - **Na prática:** [Injeção em sistemas downstream](../03-output-attacks/downstream-injection.pt-BR.md)
 - **Na prática:** [Prompt injection indireta](../02-prompt-injection/indirect-prompt-injection.pt-BR.md)
 - **Na prática:** [XSS via saída do LLM](../03-output-attacks/xss-via-llm-output.pt-BR.md)

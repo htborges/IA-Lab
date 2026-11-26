@@ -85,6 +85,7 @@ plugins:
             13 · RAG, agents and MCP: 13 · RAG, agents e MCP
             Attacks: Ataques
             Overview: Visão geral
+            Reconnaissance: Reconhecimento
             Direct Prompt Injection: Prompt Injection Direta
             Indirect Prompt Injection: Prompt Injection Indireta
             System Prompt Leakage: Vazamento de System Prompt
@@ -98,6 +99,8 @@ plugins:
             Evasion: Evasão
             Privacy: Privacidade
             Defense: Defesa
+            Layered Prompt Injection Defense: Defesa contra prompt injection
+            LLM Testing Prompts: Prompts de teste
             Tools: Ferramentas
             Methodology: Metodologia
             About: Sobre
@@ -129,6 +132,7 @@ nav:
   - Attacks:
       - Prompt Injection:
           - 02-prompt-injection/index.md
+          - Reconnaissance: 02-prompt-injection/llm-recon.md
           - Direct Prompt Injection: 02-prompt-injection/direct-prompt-injection.md
           - Indirect Prompt Injection: 02-prompt-injection/indirect-prompt-injection.md
           - System Prompt Leakage: 02-prompt-injection/system-prompt-leakage.md
@@ -145,13 +149,17 @@ nav:
       - Application & System: 05-app-and-system/index.md
       - Evasion: 06-evasion/index.md
       - Privacy: 07-privacy/index.md
-  - Defense: 08-defense/index.md
+  - Defense:
+      - 08-defense/index.md
+      - Layered Prompt Injection Defense: 08-defense/prompt-injection-defense.md
   - Labs:
       - labs/index.md
       - vuln-chatbot-rag: labs/vuln-chatbot-rag/index.md
   - Tools: tools/index.md
   - Methodology: methodology/index.md
-  - Cheatsheets: cheatsheets/index.md
+  - Cheatsheets:
+      - cheatsheets/index.md
+      - LLM Testing Prompts: cheatsheets/llm-testing-prompts.md
   - Writeups: writeups/index.md
   - About:
       - Disclaimer: DISCLAIMER.md

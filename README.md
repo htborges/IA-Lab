@@ -42,13 +42,13 @@ Theory → Mapping (OWASP / MITRE ATLAS) → Reproducible lab → Exploitation �
 |---|-------|--------|
 | 00 | [Fundamentals](00-fundamentals/): a learning track from zero to LLMs | ✅ 13 lessons |
 | 01 | [Frameworks](01-frameworks/): OWASP LLM Top 10 × MITRE ATLAS | ✅ v1 |
-| 02 | [Prompt Injection](02-prompt-injection/): direct, indirect, jailbreaks | 🟡 4 techniques |
+| 02 | [Prompt Injection](02-prompt-injection/): recon, direct, indirect, leakage, jailbreaks | 🟡 5 techniques |
 | 03 | [LLM Output Attacks](03-output-attacks/): XSS, SQLi, command injection, SSRF via model output | 🟡 2 techniques |
 | 04 | [Data & Supply Chain](04-data-attacks/): poisoning, backdoors, malicious model files | 🟡 3 techniques |
 | 05 | [Application & System](05-app-and-system/): RAG, tools, agents, MCP | 🚧 |
 | 06 | [Evasion](06-evasion/): adversarial examples | 🚧 |
 | 07 | [Privacy](07-privacy/): membership inference, extraction | 🚧 |
-| 08 | [Defense](08-defense/): guardrails, detection, monitoring | 🚧 |
+| 08 | [Defense](08-defense/): layered defense, guardrails, detection, monitoring | 🟡 1 page |
 | 🧪 | [Labs](labs/): [vuln-chatbot-rag](labs/vuln-chatbot-rag/) · [Tools](tools/) · [Methodology](methodology/) · [Cheatsheets](cheatsheets/) · [Writeups](writeups/) | 🚧 |
 
 New techniques use the [template](templates/technique.md).

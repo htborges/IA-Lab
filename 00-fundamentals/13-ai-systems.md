@@ -266,6 +266,8 @@ Because the system prompt and the documents share the same token channel, and th
 
 IA-Lab techniques that build on this lesson:
 
+- **In practice:** [LLM application reconnaissance](../02-prompt-injection/llm-recon.md)
+- **In defense:** [Layered prompt injection defense](../08-defense/prompt-injection-defense.md)
 - **In practice:** [Downstream injection](../03-output-attacks/downstream-injection.md)
 - **In practice:** [Indirect prompt injection](../02-prompt-injection/indirect-prompt-injection.md)
 - **In practice:** [XSS via LLM output](../03-output-attacks/xss-via-llm-output.md)

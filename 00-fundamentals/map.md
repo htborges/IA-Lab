@@ -48,9 +48,9 @@ flowchart LR
 | [08 · Reinforcement learning](08-reinforcement-learning.md) | 03, 04 | — | [Jailbreaks](../02-prompt-injection/jailbreaks.md) |
 | [09 · Neural networks](09-neural-networks.md) | 04, 05 | — | [Backdoors](../04-data-attacks/model-backdoors.md), [Malicious model files](../04-data-attacks/malicious-model-files.md) |
 | [10 · CNN and RNN](10-cnn-rnn.md) | 09 | — | — |
-| [11 · LLMs and Transformers](11-llms.md) | 04, 09, 10 | — | [Direct](../02-prompt-injection/direct-prompt-injection.md) and [indirect injection](../02-prompt-injection/indirect-prompt-injection.md), [system prompt leakage](../02-prompt-injection/system-prompt-leakage.md), [jailbreaks](../02-prompt-injection/jailbreaks.md), [XSS](../03-output-attacks/xss-via-llm-output.md) |
+| [11 · LLMs and Transformers](11-llms.md) | 04, 09, 10 | — | [Recon](../02-prompt-injection/llm-recon.md), [direct](../02-prompt-injection/direct-prompt-injection.md) and [indirect injection](../02-prompt-injection/indirect-prompt-injection.md), [system prompt leakage](../02-prompt-injection/system-prompt-leakage.md), [jailbreaks](../02-prompt-injection/jailbreaks.md), [XSS](../03-output-attacks/xss-via-llm-output.md) |
 | [12 · Diffusion models](12-diffusion-models.md) | 09, 10, 11 | — | — |
-| [13 · RAG, agents and MCP](13-ai-systems.md) | 11 | — | [Indirect injection](../02-prompt-injection/indirect-prompt-injection.md), [XSS](../03-output-attacks/xss-via-llm-output.md), [downstream injection](../03-output-attacks/downstream-injection.md) |
+| [13 · RAG, agents and MCP](13-ai-systems.md) | 11 | — | [Recon](../02-prompt-injection/llm-recon.md), [indirect injection](../02-prompt-injection/indirect-prompt-injection.md), [XSS](../03-output-attacks/xss-via-llm-output.md), [downstream injection](../03-output-attacks/downstream-injection.md) |
 
 ## Suggested paths
 
