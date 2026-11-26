@@ -80,6 +80,7 @@ plugins:
             07 · Unsupervised learning: 07 · Aprendizado não supervisionado
             08 · Reinforcement learning: 08 · Aprendizado por reforço
             09 · Neural networks: 09 · Redes neurais
+            10 · CNN and RNN: 10 · CNN e RNN
             Attacks: Ataques
             Overview: Visão geral
             Direct Prompt Injection: Prompt Injection Direta
@@ -110,6 +111,7 @@ nav:
           - 08 · Reinforcement learning: 00-fundamentals/08-reinforcement-learning.md
       - Deep Learning:
           - 09 · Neural networks: 00-fundamentals/09-neural-networks.md
+          - 10 · CNN and RNN: 00-fundamentals/10-cnn-rnn.md
       - Frameworks: 01-frameworks/index.md
   - Attacks:
       - Prompt Injection:

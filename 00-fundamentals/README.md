@@ -41,7 +41,7 @@ A learning track to understand **how AI works under the hood**, from zero to LLM
 | # | Lesson | Status |
 |---|--------|--------|
 | 09 | [From the perceptron to neural networks](09-neural-networks.md) | ✅ |
-| 10 | Convolutional (CNN) and recurrent (RNN) networks | 🚧 |
+| 10 | [Convolutional (CNN) and recurrent (RNN) networks](10-cnn-rnn.md) | ✅ |
 
 ### Part 4: Generative AI
 

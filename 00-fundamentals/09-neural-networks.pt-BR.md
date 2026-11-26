@@ -281,4 +281,4 @@ Por três motivos: o arquivo pode **executar código** ao ser carregado (formato
 
 ---
 
-← [08 · Aprendizado por reforço: agentes, recompensas, Q-Learning e SARSA](08-reinforcement-learning.pt-BR.md) · **Próxima aula:** 10 · Redes convolucionais (CNN) e recorrentes (RNN) (em breve)
+← [08 · Aprendizado por reforço: agentes, recompensas, Q-Learning e SARSA](08-reinforcement-learning.pt-BR.md) · **Próxima aula:** [10 · Redes convolucionais (CNN) e recorrentes (RNN)](10-cnn-rnn.pt-BR.md) →

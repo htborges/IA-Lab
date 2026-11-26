@@ -281,4 +281,4 @@ For three reasons: the file can **execute code** when loaded (pickle-based forma
 
 ---
 
-← [08 · Reinforcement learning: agents, rewards, Q-Learning and SARSA](08-reinforcement-learning.md) · **Next lesson:** 10 · Convolutional (CNN) and recurrent (RNN) networks (coming soon)
+← [08 · Reinforcement learning: agents, rewards, Q-Learning and SARSA](08-reinforcement-learning.md) · **Next lesson:** [10 · Convolutional (CNN) and recurrent (RNN) networks](10-cnn-rnn.md) →
