@@ -71,6 +71,13 @@
 .md-nav--primary .md-nav__link:hover {
   background: rgb(139 92 246 / 0.1);
 }
+/* Sections with an index page wrap a link + toggle in a container that is itself a .md-nav__link */
+.md-nav--primary .md-nav__container > .md-nav__link {
+  margin: 0;
+  padding: 0;
+  background: none;
+  border-radius: 0;
+}
 .md-nav--primary .md-nav__link--active,
 .md-nav--primary .md-nav__item--active > .md-nav__link {
   background: rgb(139 92 246 / 0.18);
@@ -81,7 +88,7 @@
 /* ---------- Home: hero banner ---------- */
 .ial-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1.35fr);
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.45fr);
   gap: 1.5rem;
   align-items: center;
   padding: 2rem;
@@ -148,9 +155,17 @@
 .ial-mini--2 { background: var(--ial-violet-soft); color: var(--ial-ink); }
 .ial-mini--3 { background: var(--ial-cyan-soft); color: #083344; }
 .ial-mini__num { font-size: 0.75rem; font-weight: 700; opacity: 0.7; }
-.ial-mini__title { font-size: 1.15rem; font-weight: 800; line-height: 1.15; margin-top: 0.4rem; }
-.md-typeset .ial-mini__icon { margin-top: auto; align-self: flex-end; }
-.md-typeset .ial-mini__icon svg { width: 3rem; height: 3rem; fill: currentColor; opacity: 0.85; }
+.ial-mini__title {
+  font-size: 1.02rem;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-top: 0.4rem;
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: manual;
+}
+.md-typeset .ial-mini__icon { margin-top: auto; align-self: flex-end; height: 3rem; }
+.md-typeset .ial-mini__icon svg { width: 3rem; height: 3rem; max-height: none; fill: currentColor; opacity: 0.85; }
 .md-typeset .ial-mini .ial-stretch { font-size: 0; }
 
 /* Stretched link: the whole card is clickable */
@@ -236,7 +251,7 @@
   background: rgb(139 92 246 / 0.14);
   border: 1px solid rgb(139 92 246 / 0.4);
 }
-.md-typeset .ial-module__icon svg { width: 1.15rem; height: 1.15rem; fill: var(--md-typeset-a-color); }
+.md-typeset .ial-module__icon svg { width: 1.15rem; height: 1.15rem; max-height: none; fill: var(--md-typeset-a-color); }
 .ial-module__body > p {
   display: flex;
   flex-direction: column;
@@ -375,7 +390,7 @@
   .ial-mini { min-height: 0; padding: 0.8rem 1rem; }
   .ial-mini > p { flex-direction: row; align-items: center; gap: 0.8rem; }
   .ial-mini__title { margin-top: 0; }
-  .md-typeset .ial-mini__icon { margin: 0 0 0 auto; align-self: center; }
+  .md-typeset .ial-mini__icon { margin: 0 0 0 auto; align-self: center; height: 2rem; }
   .md-typeset .ial-mini__icon svg { width: 2rem; height: 2rem; }
   .ial-panel { padding: 1rem; }
   .ial-panel__head > p { flex-wrap: wrap; }
