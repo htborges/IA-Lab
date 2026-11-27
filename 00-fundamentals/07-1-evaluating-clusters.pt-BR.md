@@ -196,4 +196,4 @@ Pela maldição da dimensionalidade: em alta dimensão, as distâncias entre os 
 
 ---
 
-← [07 · Aprendizado não supervisionado](07-unsupervised-learning.pt-BR.md) · **Próxima aula da trilha:** [08 · Aprendizado por reforço](08-reinforcement-learning.pt-BR.md) →
+← [07 · Aprendizado não supervisionado](07-unsupervised-learning.pt-BR.md) · **Próximo:** [07.2 · Detecção de anomalias a fundo](07-2-anomaly-detection-deep-dive.pt-BR.md) →

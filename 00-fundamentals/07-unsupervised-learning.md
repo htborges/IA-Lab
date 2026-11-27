@@ -238,6 +238,7 @@ With **mimicry**: lowering connection frequency, using common ports and protocol
 Deep dives that build on this lesson:
 
 - **Deep dive:** [07.1 · Evaluating clusters](07-1-evaluating-clusters.md)
+- **Deep dive:** [07.2 · Anomaly detection in depth](07-2-anomaly-detection-deep-dive.md)
 
 ---
 

@@ -238,6 +238,7 @@ Com **mimetismo**: reduzir a frequência das conexões, usar portas e protocolos
 Aprofundamentos que partem desta aula:
 
 - **Aprofundamento:** [07.1 · Avaliando agrupamentos](07-1-evaluating-clusters.pt-BR.md)
+- **Aprofundamento:** [07.2 · Detecção de anomalias a fundo](07-2-anomaly-detection-deep-dive.pt-BR.md)
 
 ---
 

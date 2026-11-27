@@ -196,4 +196,4 @@ Because of the curse of dimensionality: in high dimensions, the distances betwee
 
 ---
 
-← [07 · Unsupervised learning](07-unsupervised-learning.md) · **Next lesson in the track:** [08 · Reinforcement learning](08-reinforcement-learning.md) →
+← [07 · Unsupervised learning](07-unsupervised-learning.md) · **Next:** [07.2 · Anomaly detection in depth](07-2-anomaly-detection-deep-dive.md) →
