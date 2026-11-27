@@ -241,8 +241,9 @@ By creating situations that change the **observations** and **rewards** the agen
 
 ## Go deeper and practice
 
-IA-Lab techniques that build on this lesson:
+Deep dives and techniques that build on this lesson:
 
+- **Deep dive:** [08.1 · Reinforcement learning in depth](08-1-reinforcement-learning-deep-dive.md)
 - **In practice:** [Jailbreaks](../02-prompt-injection/jailbreaks.md)
 
 ---

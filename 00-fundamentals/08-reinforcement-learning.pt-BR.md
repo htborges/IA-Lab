@@ -241,8 +241,9 @@ Gerando situações que mudam as **observações** e as **recompensas** que o ag
 
 ## Aprofunde e pratique
 
-Técnicas do IA-Lab que se apoiam nesta aula:
+Aprofundamentos e técnicas que partem desta aula:
 
+- **Aprofundamento:** [08.1 · Aprendizado por reforço a fundo](08-1-reinforcement-learning-deep-dive.pt-BR.md)
 - **Na prática:** [Jailbreaks](../02-prompt-injection/jailbreaks.pt-BR.md)
 
 ---

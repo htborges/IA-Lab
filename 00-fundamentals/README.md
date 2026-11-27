@@ -55,6 +55,7 @@ Each lesson shows its level and prerequisites in the header, and ends with a **G
 | 07.1 | ↳ Deep dive: [Evaluating clusters](07-1-evaluating-clusters.md) | ✅ |
 | 07.2 | ↳ Deep dive: [Anomaly detection in depth](07-2-anomaly-detection-deep-dive.md) | ✅ |
 | 08 | [Reinforcement learning](08-reinforcement-learning.md): agents, rewards, Q-Learning and SARSA | ✅ |
+| 08.1 | ↳ Deep dive: [Reinforcement learning in depth](08-1-reinforcement-learning-deep-dive.md) | ✅ |
 
 ### Part 3: Deep Learning
 

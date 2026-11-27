@@ -55,6 +55,7 @@ Cada aula mostra no cabeçalho o nível e os pré-requisitos, e termina com o bl
 | 07.1 | ↳ Aprofundamento: [Avaliando agrupamentos](07-1-evaluating-clusters.pt-BR.md) | ✅ |
 | 07.2 | ↳ Aprofundamento: [Detecção de anomalias a fundo](07-2-anomaly-detection-deep-dive.pt-BR.md) | ✅ |
 | 08 | [Aprendizado por reforço](08-reinforcement-learning.pt-BR.md): agentes, recompensas, Q-Learning e SARSA | ✅ |
+| 08.1 | ↳ Aprofundamento: [Aprendizado por reforço a fundo](08-1-reinforcement-learning-deep-dive.pt-BR.md) | ✅ |
 
 ### Parte 3: Deep Learning
 

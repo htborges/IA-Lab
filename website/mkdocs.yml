@@ -85,6 +85,7 @@ plugins:
             07.1 · Evaluating clusters: 07.1 · Avaliando agrupamentos
             07.2 · Anomaly detection: 07.2 · Detecção de anomalias
             08 · Reinforcement learning: 08 · Aprendizado por reforço
+            08.1 · RL in depth: 08.1 · Reforço a fundo
             09 · Neural networks: 09 · Redes neurais
             09.1 · Training neural networks: 09.1 · Treinando redes neurais
             10 · CNN and RNN: 10 · CNN e RNN
@@ -139,6 +140,7 @@ nav:
           - 07.1 · Evaluating clusters: 00-fundamentals/07-1-evaluating-clusters.md
           - 07.2 · Anomaly detection: 00-fundamentals/07-2-anomaly-detection-deep-dive.md
           - 08 · Reinforcement learning: 00-fundamentals/08-reinforcement-learning.md
+          - 08.1 · RL in depth: 00-fundamentals/08-1-reinforcement-learning-deep-dive.md
       - Deep Learning:
           - 09 · Neural networks: 00-fundamentals/09-neural-networks.md
           - 09.1 · Training neural networks: 00-fundamentals/09-1-training-neural-networks.md

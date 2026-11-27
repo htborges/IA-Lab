@@ -45,7 +45,7 @@ flowchart LR
 | [05 · Linear and logistic regression](05-linear-logistic-regression.md) | 03, 04 | [05.1 · Least squares](05-1-least-squares.md) | [Data poisoning](../04-data-attacks/data-poisoning.md) |
 | [06 · Trees, Naive Bayes and SVM](06-trees-naive-bayes-svm.md) | 05 | [06.1 · Trees in depth](06-1-decision-trees-deep-dive.md), [06.2 · SVM and Naive Bayes](06-2-svm-naive-bayes-deep-dive.md) | [Model backdoors](../04-data-attacks/model-backdoors.md) |
 | [07 · Unsupervised learning](07-unsupervised-learning.md) | 04, 05 | [07.1 · Evaluating clusters](07-1-evaluating-clusters.md), [07.2 · Anomaly detection](07-2-anomaly-detection-deep-dive.md) | — |
-| [08 · Reinforcement learning](08-reinforcement-learning.md) | 03, 04 | — | [Jailbreaks](../02-prompt-injection/jailbreaks.md) |
+| [08 · Reinforcement learning](08-reinforcement-learning.md) | 03, 04 | [08.1 · RL in depth](08-1-reinforcement-learning-deep-dive.md) | [Jailbreaks](../02-prompt-injection/jailbreaks.md) |
 | [09 · Neural networks](09-neural-networks.md) | 04, 05 | [09.1 · Training neural networks](09-1-training-neural-networks.md) | [Backdoors](../04-data-attacks/model-backdoors.md), [Malicious model files](../04-data-attacks/malicious-model-files.md) |
 | [10 · CNN and RNN](10-cnn-rnn.md) | 09 | — | — |
 | [11 · LLMs and Transformers](11-llms.md) | 04, 09, 10 | [11.1 · Tokenization in depth](11-1-tokenization-deep-dive.md) | [Recon](../02-prompt-injection/llm-recon.md), [direct](../02-prompt-injection/direct-prompt-injection.md) and [indirect injection](../02-prompt-injection/indirect-prompt-injection.md), [system prompt leakage](../02-prompt-injection/system-prompt-leakage.md), [jailbreaks](../02-prompt-injection/jailbreaks.md), [XSS](../03-output-attacks/xss-via-llm-output.md) |
